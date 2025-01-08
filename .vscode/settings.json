@@ -1,0 +1,31 @@
+{
+    "java.compile.nullAnalysis.mode": "disabled",
+    "cmake.sourceDirectory": "C:/administrative/projects/project_bist/linux",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellright.parserByClass": {
+        "dart": {
+            "parser": "code"
+        }
+    },
+    "cSpell.words": [
+        "appbar",
+        "auths",
+        "bist",
+        "CLOUDINARY",
+        "eltooptip",
+        "iconss",
+        "projectbist",
+        "riverpod",
+        "screenutil",
+        "SIGNUP",
+        "vnin"
+    ]
+}

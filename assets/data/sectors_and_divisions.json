@@ -1,0 +1,969 @@
+[
+  {
+    "Agriculture/Agro-Allied": {
+      "Divisions": [
+        "Crop Production",
+        "Livestock Farming",
+        "Fisheries and Aquaculture",
+        "Agribusiness",
+        "Horticulture",
+        "Agricultural Machinery",
+        "Agrochemicals",
+        "Agricultural Finance",
+        "Research and Development",
+        "Forestry and Logging",
+        "Apiculture (Beekeeping)",
+        "Sericulture (Silk Farming)",
+        "Renewable Energy in Agriculture"
+      ]
+    }
+  },
+  {
+    "Air Services": {
+      "Divisions": [
+        "Airline Operations",
+        "Air Cargo Services",
+        "Aviation Maintenance",
+        "Airport Management",
+        "Flight Training",
+        "Aircraft Charter",
+        "Aircraft Leasing",
+        "Ground Handling Services",
+        "Aviation Consultancy",
+        "Air Navigation Services",
+        "Aerial Survey and Photography",
+        "Aircraft Sales and Brokerage"
+      ]
+    }
+  },
+  {
+    "Banking": {
+      "Divisions": [
+        "Bank Operations",
+        "Retail Banking",
+        "Corporate Banking",
+        "Investment Banking",
+        "Asset Management",
+        "Treasury and Cash Management",
+        "Credit and Lending",
+        "Risk Management",
+        "Compliance and Regulatory Affairs",
+        "Digital Banking",
+        "Customer Service",
+        "International Banking",
+        "Financial Advisory"
+      ]
+    }
+  },
+  {
+    "Breweries": {
+      "Divisions": [
+        "Brewery Operations",
+        "Brewing and Fermentation",
+        "Quality Control",
+        "Packaging Distribution and Logistics",
+        "Marketing and Sales",
+        "Research and Development",
+        "Brand Management",
+        "Supply Chain Management",
+        "Finance and Accounting",
+        "Human Resources",
+        "Environmental Sustainability"
+      ]
+    }
+  },
+  {
+    "Building Materials": {
+      "Divisions": [
+        "Cement Production",
+        "Steel Manufacturing",
+        "Glass Production",
+        "Ceramic and Tile Manufacturing",
+        "Brick and Concrete Block Production",
+        "Roofing Materials Manufacturing",
+        "Paints and Coatings",
+        "Adhesives and Sealants",
+        "Insulation Materials",
+        "Doors and Windows Manufacturing",
+        "Flooring Materials",
+        "Sanitary Ware Manufacturing"
+      ]
+    }
+  },
+  {
+    "Chemical & Paints": {
+      "Divisions": [
+        "Chemical Manufacturing",
+        "Paints and Coatings Production",
+        "Petrochemicals",
+        "Specialty Chemicals",
+        "Agrochemicals",
+        "Pharmaceuticals",
+        "Adhesives and Sealants",
+        "Resins and Polymers",
+        "Surfactants",
+        "Industrial Gases",
+        "Dyes and Pigments",
+        "Fine Chemicals",
+        "Research and Development"
+      ]
+    }
+  },
+  {
+    "Commercial/Services": {
+      "Divisions": [
+        "Market Research",
+        "Consumer Behavior Studies",
+        "Service Quality Analysis",
+        "Supply Chain Management",
+        "E-commerce Trends",
+        "Digital Marketing Strategies",
+        "Customer Relationship Management",
+        "Business Process Outsourcing",
+        "Retail Analytics",
+        "Hospitality and Tourism Research",
+        "Event Management Studies",
+        "Financial Services Research",
+        "Logistics and Transportation Studies",
+        "Real Estate Market Analysis"
+      ]
+    }
+  },
+  {
+    "Computer & Office Equipment": {
+      "Divisions": [
+        "Computer Hardware",
+        "Software Development",
+        "Networking Solutions",
+        "Cybersecurity",
+        "Data Storage",
+        "Cloud Computing",
+        "Office Automation",
+        "Printers and Imaging",
+        "Peripheral Devices",
+        "Digital Workplace Solutions",
+        "User Experience (UX) Research",
+        "Artificial Intelligence in Office Systems",
+        "Ergonomics and Office Design",
+        "Technology Adoption in Workplaces"
+      ]
+    }
+  },
+  {
+    "Conglomerates": {
+      "Divisions": [
+        "Diversification Strategies",
+        "Mergers and Acquisitions",
+        "Corporate Governance",
+        "Financial Management",
+        "Strategic Planning",
+        "Risk Management",
+        "Supply Chain Integration",
+        "Sustainability Practices",
+        "Innovation and Technology Adoption",
+        "Global Market Expansion",
+        "Market Entry Strategies",
+        "Brand Management in Conglomerates",
+        "Human Resource Management",
+        "Crisis Management"
+      ]
+    }
+  },
+  {
+    "Construction": {
+      "Divisions": [
+        "Civil Engineering",
+        "Structural Engineering",
+        "Architectural Design",
+        "Project Management",
+        "Cost Estimation and Analysis",
+        "Construction Materials",
+        "Building Codes and Standards",
+        "Health and Safety in Construction",
+        "Sustainable Construction Practices",
+        "Urban Planning and Development",
+        "Infrastructure Management",
+        "Construction Technology",
+        "Real Estate Development",
+        "Social Impact of Construction Projects"
+      ]
+    }
+  },
+  {
+    "Engineering Technology": {
+      "Divisions": [
+        "Mechanical Engineering",
+        "Electrical Engineering",
+        "Electronic Engineering",
+        "Civil Engineering",
+        "Chemical Engineering",
+        "Biomedical Engineering",
+        "Aerospace Engineering",
+        "Computer Engineering",
+        "Environmental Engineering",
+        "Industrial Engineering",
+        "Materials Engineering",
+        "Renewable Energy Technology",
+        "Automation and Control Systems",
+        "Robotics and Artificial Intelligence",
+        "Telecommunications Engineering"
+      ]
+    }
+  },
+  {
+    "Food/Beverages & Tobacco": {
+      "Divisions": [
+        "Food Processing",
+        "Beverage Production",
+        "Tobacco Manufacturing",
+        "Nutrition and Dietetics",
+        "Quality Control in Food Industry",
+        "Supply Chain Management in Food",
+        "Packaging Technology",
+        "Flavor and Fragrance Research",
+        "Brewing and Distillation",
+        "Dairy Technology",
+        "Wine and Spirits Production",
+        "Culinary Arts and Gastronomy",
+        "Food Safety and Regulations",
+        "Market Trends in Food and Beverages"
+      ]
+    }
+  },
+  {
+    "Healthcare": {
+      "Divisions": [
+        "Medical Research",
+        "Pharmaceuticals",
+        "Biotechnology",
+        "Health Informatics",
+        "Clinical Trials and Research",
+        "Public Health",
+        "Healthcare Administration",
+        "Nursing and Patient Care",
+        "Medical Imaging",
+        "Healthcare Policy and Management",
+        "Disease Prevention and Control",
+        "Pharmacy and Medicinal Chemistry",
+        "Health Economics",
+        "Healthcare Technology",
+        "Mental Health Studies"
+      ]
+    }
+  },
+  {
+    "Hotel & Tourism": {
+      "Divisions": [
+        "Hospitality Management",
+        "Hotel Operations",
+        "Tourism Marketing",
+        "Event Management",
+        "Travel and Tourism Economics",
+        "Culinary Tourism",
+        "Hotel Technology and Innovation",
+        "Sustainable Tourism",
+        "Destination Management",
+        "Customer Experience in Hospitality",
+        "Tourism Policy and Planning",
+        "Adventure Tourism",
+        "Cultural Heritage Tourism",
+        "Eco-tourism",
+        "Hospitality Human Resources"
+      ]
+    }
+  },
+  {
+    "Industrial/Domestic Products": {
+      "Divisions": [
+        "Manufacturing Processes",
+        "Quality Assurance and Control",
+        "Product Design and Innovation",
+        "Supply Chain Management",
+        "Industrial Automation",
+        "Materials Science",
+        "Domestic Appliances",
+        "Consumer Electronics",
+        "Home and Office Furniture",
+        "Textile and Apparel Manufacturing",
+        "Personal Care Products",
+        "Packaging Technology",
+        "Appliance Energy Efficiency",
+        "Consumer Product Safety",
+        "Environmental Sustainability"
+      ]
+    }
+  },
+  {
+    "Information & Communication Technology": {
+      "Divisions": [
+        "Software Development",
+        "Network Infrastructure",
+        "Cybersecurity",
+        "Data Analytics",
+        "Cloud Computing",
+        "Artificial Intelligence",
+        "Human-Computer Interaction",
+        "Telecommunications",
+        "Mobile Technologies",
+        "Web Technologies",
+        "E-Government Solutions",
+        "Digital Transformation",
+        "ICT Policy and Regulation",
+        "Emerging Technologies",
+        "Internet of Things (IoT)"
+      ]
+    }
+  },
+  {
+    "Insurance": {
+      "Divisions": [
+        "Actuarial Science",
+        "Underwriting",
+        "Risk Management",
+        "Claims Management",
+        "Insurance Technology",
+        "Life Insurance",
+        "Property and Casualty Insurance",
+        "Health Insurance",
+        "Reinsurance",
+        "Insurance Regulation",
+        "Insurance Marketing",
+        "Insurance Fraud Prevention",
+        "Insurtech Innovations",
+        "Customer Experience in Insurance",
+        "Climate and Catastrophe Modeling"
+      ]
+    }
+  },
+  {
+    "Leasing": {
+      "Divisions": [
+        "Equipment Leasing",
+        "Vehicle Leasing",
+        "Real Estate Leasing",
+        "Financial Leasing",
+        "Operating Leases",
+        "Capital Leases",
+        "Lease Administration",
+        "Lease Accounting",
+        "Lease Financing",
+        "Lease Valuation",
+        "Lease Compliance",
+        "Lease Documentation",
+        "Lease Portfolio Management",
+        "Lease Renewals and Terminations",
+        "Technology Leasing"
+      ]
+    }
+  },
+  {
+    "Other Financial Institutions": {
+      "Divisions": [
+        "Microfinance",
+        "FinTech",
+        "Payment Systems",
+        "Remittance Services",
+        "Credit Unions",
+        "Pawnbroking",
+        "Investment Banking",
+        "Development Finance Institutions",
+        "Insurance Brokerage",
+        "Venture Capital",
+        "Private Equity",
+        "Hedge Funds",
+        "Crowdfunding",
+        "Financial Inclusion",
+        "Regulatory Compliance"
+      ]
+    }
+  },
+  {
+    "Petroleum(Marketing)": {
+      "Divisions": [
+        "Market Analysis",
+        "Fuel Distribution",
+        "Retail Fuel Stations",
+        "Lubricants and Greases",
+        "Bunker Fuel Supply",
+        "Petrochemicals Marketing",
+        "Price Risk Management",
+        "Marketing Strategy",
+        "Supply Chain Optimization",
+        "Customer Relationship Management",
+        "Environmental Impact Assessment",
+        "Compliance and Regulations",
+        "Energy Trading",
+        "Alternative Fuels",
+        "Brand Management in Petroleum"
+      ]
+    }
+  },
+  {
+    "Real Estate": {
+      "Divisions": [
+        "Residential Real Estate",
+        "Commercial Real Estate",
+        "Industrial Real Estate",
+        "Retail Real Estate",
+        "Real Estate Development",
+        "Property Management",
+        "Real Estate Investment",
+        "Real Estate Finance",
+        "Real Estate Marketing",
+        "Real Estate Valuation",
+        "Sustainable Real Estate Practices",
+        "Urban Planning and Design",
+        "Real Estate Technology",
+        "Real Estate Law and Regulation",
+        "Real Estate Market Analysis"
+      ]
+    }
+  },
+  {
+    "Road Transportation": {
+      "Divisions": [
+        "Fleet Management",
+        "Public Transit",
+        "Freight Transport",
+        "Logistics and Supply Chain",
+        "Traffic Management",
+        "Transportation Infrastructure",
+        "Intelligent Transportation Systems",
+        "Transportation Planning",
+        "Vehicle Technology",
+        "Road Safety",
+        "Environmental Impact of Transportation",
+        "Ride-Sharing and Carpooling",
+        "Last-Mile Delivery",
+        "Transportation Economics",
+        "Transportation Policy and Regulation"
+      ]
+    }
+  },
+  {
+    "Renewable Energy": {
+      "Divisions": [
+        "Photovoltaic Technology",
+        "Solar Thermal Energy",
+        "Solar Panels and Materials Research",
+        "Solar Grid Integration",
+        "Wind Turbine Technology",
+        "Wind Farm Design and Optimization",
+        "Offshore Wind Energy",
+        "Wind Resource Assessment",
+        "Biomass Conversion Technologies",
+        "Bioenergy Feedstocks Research",
+        "Biogas Production",
+        "Biomass Co-firing in Power Plants",
+        "Hydropower Turbine Design",
+        "Small Hydropower Systems",
+        "Hydropower Environmental Impact Assessment",
+        "Run-of-River vs. Reservoir Hydropower"
+      ]
+    }
+  },
+  {
+    "Education": {
+      "Divisions": [
+        "Pedagogical Research",
+        "Classroom Management",
+        "Educational Psychology",
+        "Assessment and Evaluation",
+        "Special Education Research",
+        "Inclusive Education",
+        "Teacher Professional Development",
+        "Online and Distance Learning",
+        "Higher Education Research",
+        "Multilingual Education",
+        "Early Childhood Education",
+        "Adult and Lifelong Learning",
+        "International Education Studies",
+        "Educational Leadership and Administration",
+        "Comparative Education",
+        "Socioeconomic Impact of Education",
+        "Blended Learning",
+        "Gamification in Education",
+        "STEM Education (Science, Technology, Engineering, Mathematics)",
+        "Literacy and Reading Education",
+        "Educational Neuroscience",
+        "Mobile Learning",
+        "Educational Robotics",
+        "Gender and Education",
+        "Cultural Competence in Education",
+        "Educational Leadership in STEM",
+        "Language Education and Linguistics",
+        "Virtual Reality in Education",
+        "Global Citizenship Education",
+        "Teacher Motivation and Burnout",
+        "Positive Psychology in Education",
+        "Education for Sustainable Development",
+        "Social and Emotional Learning",
+        "Educational Equity and Inclusion",
+        "Critical Pedagogy",
+        "Digital Citizenship Education"
+      ]
+    }
+  },
+  {
+    "Healthtech": {
+      "Divisions": [
+        "Electronic Health Records (EHR)",
+        "Health Information Exchange",
+        "Health Data Analytics",
+        "Medical Imaging Technology",
+        "Diagnostic Equipment",
+        "Wearable Health Devices",
+        "Remote Patient Monitoring",
+        "Teleconsultation",
+        "Telehealth Platforms",
+        "Data-driven Healthcare Decision Making",
+        "Predictive Analytics",
+        "Population Health Management",
+        "Cybersecurity in Healthcare",
+        "Data Privacy and Protection",
+        "Security Solutions for Health Systems",
+        "Mobile Health Apps",
+        "IoT in Healthcare",
+        "Digital Therapeutics",
+        "Health Data Integration",
+        "Knowledge Representation in Healthcare",
+        "Clinical Decision Support Systems",
+        "Electronic Prescribing",
+        "Online Patient Portals",
+        "Virtual Health Records",
+        "Surgical Robotics",
+        "Rehabilitation Robotics",
+        "Robotic-Assisted Healthcare",
+        "AI in Diagnostic Imaging",
+        "Natural Language Processing in Healthcare",
+        "Machine Learning in Clinical Decision Support",
+        "Bioinformatics",
+        "Computational Biology",
+        "Translational Bioinformatics",
+        "Genetic Testing and Counseling",
+        "Pharmacogenomics",
+        "Precision Medicine"
+      ]
+    }
+  },
+  {
+    "Agricultural Technology (AgTech)": {
+      "Divisions": [
+        "GPS Technology in Agriculture",
+        "Precision Irrigation",
+        "Precision Crop Management",
+        "Drone Technology in Agriculture",
+        "Robotic Harvesting",
+        "Autonomous Tractors",
+        "Internet of Things (IoT) in Agriculture",
+        "Sensor Technologies",
+        "Farm Automation",
+        "Farm Management Software",
+        "Data Analytics in Agriculture",
+        "Decision Support Systems",
+        "Genetically Modified Crops",
+        "Gene Editing in Agriculture",
+        "Plant Tissue Culture",
+        "Pesticide Formulations and Innovations",
+        "Fertilizer Technology",
+        "Biopesticides and Organic Farming Inputs",
+        "Crop Improvement Strategies",
+        "Marker-Assisted Selection",
+        "Hybrid Seed Development",
+        "Organic Farming Practices",
+        "Agroecology",
+        "Conservation Agriculture",
+        "Satellite Imagery Applications",
+        "Remote Sensing for Crop Monitoring",
+        "GIS in Agriculture",
+        "Sustainable Fish Farming",
+        "Aquaculture Nutrition",
+        "Disease Management in Aquaculture",
+        "Indoor Agriculture Technologies",
+        "Hydroponics and Aeroponics",
+        "Urban Farming Innovations",
+        "Food Traceability Technologies",
+        "Supply Chain Transparency",
+        "Food Safety Innovations"
+      ]
+    }
+  },
+  {
+    "Water and Sanitation": {
+      "Divisions": [
+        "Water Quality Monitoring",
+        "Contaminant Analysis",
+        "Source Water Protection",
+        "Advanced Water Treatment",
+        "Desalination Technologies",
+        "Water Purification Methods",
+        "Biological Wastewater Treatment",
+        "Advanced Oxidation Processes",
+        "Nutrient Removal in Wastewater",
+        "Improved Sanitation Technologies",
+        "Behavior Change Interventions",
+        "Hygiene Promotion",
+        "Integrated Water Resource Management",
+        "Watershed Management",
+        "Sustainable Water Use",
+        "Impact of Climate Change on Water Resources",
+        "Adaptation Strategies",
+        "Resilience in Water Systems",
+        "Smart Water Networks",
+        "Leak Detection Technologies",
+        "Urban Water Efficiency",
+        "Rural Water Supply Solutions",
+        "Community-Based Water Management",
+        "Water Supply and Equity",
+        "Water Policy Analysis",
+        "Institutional Frameworks",
+        "Water Rights and Allocation",
+        "Water-Energy Nexus",
+        "Water Recycling and Reuse",
+        "Smart Water Grids",
+        "Humanitarian Responses",
+        "Disaster Preparedness",
+        "Emergency Water Supply and Sanitation",
+        "Ecosystem Services of Water Bodies",
+        "Biodiversity Conservation in Water Systems",
+        "Ecological Restoration of Water Environments"
+      ]
+    }
+  },
+  {
+    "Manufacturing Technology": {
+      "Divisions": [
+        "3D Printing Technologies",
+        "Additive Materials Development",
+        "Process Optimization in Additive Manufacturing",
+        "Composite Materials",
+        "Nanostructured Materials",
+        "Smart Materials",
+        "Robotics in Manufacturing",
+        "Automated Assembly Lines",
+        "Smart Factories",
+        "Virtual Prototyping",
+        "Digital Replica of Manufacturing Processes",
+        "Real-time Monitoring and Control",
+        "Green Manufacturing Practices",
+        "Circular Economy in Manufacturing",
+        "Eco-friendly Materials",
+        "Internet of Things (IoT) in Manufacturing",
+        "Cyber-Physical Systems",
+        "Data Analytics for Smart Manufacturing",
+        "High-precision Machining",
+        "Metrology and Quality Control",
+        "Tolerance Analysis",
+        "Process Optimization",
+        "Waste Reduction Strategies",
+        "Continuous Improvement Practices",
+        "Simulation and Modeling",
+        "Supply Chain Optimization",
+        "Six Sigma in Manufacturing",
+        "Digital Fabrication Technologies",
+        "Virtual Manufacturing Environments",
+        "Computer-Aided Manufacturing (CAM)",
+        "Agile Manufacturing",
+        "Reconfigurable Manufacturing Systems",
+        "Mass Customization",
+        "High-Speed Machining",
+        "Electrical Discharge Machining (EDM)",
+        "Abrasive Water Jet Machining"
+      ]
+    }
+  },
+  {
+    "Telecommunications": {
+      "Divisions": [
+        "5G Network Architecture",
+        "Millimeter Wave Technology",
+        "Massive MIMO (Multiple Input, Multiple Output)",
+        "Fiber Optic Communication",
+        "Next-Generation Networks (NGN)",
+        "Network Virtualization",
+        "Cybersecurity in Telecommunications",
+        "Threat Detection and Prevention",
+        "Secure Communication Protocols",
+        "LTE (Long-Term Evolution)",
+        "Mobile Edge Computing",
+        "Wireless Sensor Networks",
+        "IoT Connectivity Solutions",
+        "IoT Protocols",
+        "IoT Security",
+        "Satellite System Design",
+        "Earth Observation Satellites",
+        "Satellite Communication Protocols",
+        "Wi-Fi Technologies",
+        "Bluetooth and Zigbee",
+        "Wireless Local Area Networks (WLAN)",
+        "Spectrum Allocation and Management",
+        "Telecom Regulatory Frameworks",
+        "Net Neutrality and Open Internet",
+        "Network Management Software",
+        "Billing and Revenue Assurance",
+        "Customer Relationship Management (CRM)",
+        "Edge Computing",
+        "Quantum Communication",
+        "Software-Defined Networking (SDN)",
+        "TCP/IP Protocols",
+        "VoIP (Voice over Internet Protocol)",
+        "IMS (IP Multimedia Subsystem)",
+        "Intelligent Transportation Systems",
+        "Smart Grid Communication",
+        "Telecommunication Infrastructure for Smart Cities"
+      ]
+    }
+  },
+  {
+    "Space Technology": {
+      "Divisions": [
+        "Satellite Design and Development",
+        "Satellite Communication Systems",
+        "Earth Observation Satellites",
+        "Robotic Space Probes",
+        "Planetary Missions",
+        "Human Spaceflight",
+        "Satellite Remote Sensing",
+        "Earth Observation Technologies",
+        "Hyperspectral Imaging",
+        "Observational Astronomy",
+        "Space Telescopes",
+        "High-Energy Astrophysics",
+        "Rocket Propulsion Systems",
+        "Electric Propulsion",
+        "Ion Propulsion",
+        "Solar Wind and Solar Flares",
+        "Space Weather Monitoring",
+        "Impact on Earth's Magnetosphere",
+        "Scientific Experiments in Microgravity",
+        "Human Adaptation to Microgravity",
+        "Space Medicine",
+        "Orbital Debris Tracking",
+        "Space Debris Mitigation",
+        "Space Traffic Management",
+        "Mars Exploration",
+        "Lunar Exploration",
+        "Asteroid and Comet Studies",
+        "Robotic Spacecraft Operations",
+        "Planetary Rovers",
+        "Autonomous Space Systems",
+        "Search for Extraterrestrial Life",
+        "Habitability of Exoplanets",
+        "Extremophiles on Earth",
+        "International Space Law",
+        "Space Policy Formulation",
+        "Space Governance and Ethics"
+      ]
+    }
+  },
+  {
+    "Environmental Services": {
+      "Divisions": [
+        "EIA Methodologies",
+        "Environmental Risk Assessment",
+        "Cumulative Impact Assessment",
+        "Climate Modeling",
+        "Climate Adaptation Strategies",
+        "Mitigation and Carbon Capture",
+        "Habitat Restoration",
+        "Endangered Species Conservation",
+        "Ecosystem Services",
+        "Air Pollution Monitoring",
+        "Source Apportionment Studies",
+        "Air Quality Modeling",
+        "Watershed Management",
+        "Groundwater Studies",
+        "Integrated Water Resource Management",
+        "Solid Waste Management",
+        "Hazardous Waste Treatment",
+        "Circular Economy Practices",
+        "Remote Sensing Applications",
+        "Geospatial Technologies",
+        "Environmental Data Analytics",
+        "Sustainable Practices in Industry",
+        "Sustainable Urban Planning",
+        "Sustainable Agriculture",
+        "Policy Analysis and Formulation",
+        "Environmental Law",
+        "Stakeholder Engagement",
+        "Soil Health Assessment",
+        "Soil Erosion Studies",
+        "Soil Contamination Remediation",
+        "Wildlife Habitat Preservation",
+        "Conservation Genetics",
+        "Wildlife Population Dynamics",
+        "Effects of Environmental Contaminants on Ecosystems",
+        "Bioaccumulation Studies",
+        "Ecological Risk Assessment"
+      ]
+    }
+  },
+  {
+    "Media and Entertainment": {
+      "Divisions": [
+        "Virtual Reality (VR)",
+        "Augmented Reality (AR)",
+        "Mixed Reality (MR)",
+        "Content Production Technologies",
+        "Media Distribution Platforms",
+        "Streaming Technologies",
+        "Media Consumption Patterns",
+        "Viewer Behavior Analysis",
+        "Personalized Content Recommendations",
+        "Emerging Technologies in Media",
+        "Market Dynamics",
+        "Global Media Landscape",
+        "Viewer Engagement and Experience",
+        "Impact of Media on Behavior",
+        "Cognitive and Emotional Responses to Media",
+        "Media Regulation Policies",
+        "Ethical Standards in Journalism",
+        "Freedom of the Press",
+        "Blockchain in Media",
+        "Artificial Intelligence in Media",
+        "5G and Media Applications",
+        "Gamification in Media",
+        "Interactive Storytelling",
+        "Immersive Experiences",
+        "Representation in Media",
+        "Media and Identity",
+        "Cross-Cultural Media Studies",
+        "Media Influence on Society",
+        "Media Literacy",
+        "Social Impact of Media",
+        "Monetization Strategies",
+        "Subscription Models",
+        "Advertising and Revenue Models",
+        "Media Influence on Political Discourse",
+        "Political Communication",
+        "Media and Democracy"
+      ]
+    }
+  },
+  {
+    "E-commerce": {
+      "Divisions": [
+        "E-commerce Platforms",
+        "User Experience in Online Shopping",
+        "Personalization in Online Retail",
+        "Mobile Payment Technologies",
+        "Digital Wallets",
+        "Cryptocurrency and Blockchain in Payments",
+        "Last-Mile Delivery Optimization",
+        "Fulfillment Centers and Warehousing",
+        "Supply Chain Visibility",
+        "Global Marketplaces",
+        "International Shipping and Customs",
+        "Localization Strategies",
+        "Customer Journey Mapping",
+        "Customer Reviews and Feedback",
+        "Customer Retention Strategies",
+        "Cybersecurity in E-commerce",
+        "Fraud Detection and Prevention",
+        "Secure Transaction Technologies",
+        "Data Analytics for E-commerce",
+        "Predictive Analytics in E-commerce",
+        "Business Intelligence Tools",
+        "Content Management Systems (CMS)",
+        "E-commerce Website Development",
+        "Cloud-based E-commerce Solutions",
+        "Social Media Integration in E-commerce",
+        "Influencer Marketing",
+        "Social Shopping Experiences",
+        "E-commerce Laws and Regulations",
+        "Consumer Protection",
+        "Privacy and Data Protection",
+        "Voice Commerce",
+        "Augmented Reality (AR) Shopping",
+        "Chatbots and Virtual Assistants in E-commerce",
+        "Sustainable Packaging",
+        "Green Supply Chain in E-commerce",
+        "Eco-friendly Practices in Online Retail"
+      ]
+    }
+  },
+  {
+    "Mining and Minerals": {
+      "Divisions": [
+        "Geological Survey Techniques",
+        "Geophysical Exploration",
+        "Remote Sensing in Exploration",
+        "Ore Beneficiation Technologies",
+        "Extractive Metallurgy",
+        "Mineral Separation Techniques",
+        "Ecological and Social Impact Studies",
+        "Mitigation Strategies",
+        "Sustainable Mining Practices",
+        "Ore Deposit Geology",
+        "Petrology and Geochemistry",
+        "Mineralogy",
+        "Automation and Robotics in Mining",
+        "Advanced Mining Machinery",
+        "Sensor Technologies in Mining",
+        "Occupational Safety in Mining",
+        "Health and Safety Regulations",
+        "Risk Assessment and Management",
+        "Economic Analysis of Mining Projects",
+        "Resource and Reserve Estimation",
+        "Cost-Benefit Analysis in Mining",
+        "Corporate Social Responsibility in Mining",
+        "Community Engagement",
+        "Sustainable Resource Management",
+        "Environmental Rehabilitation",
+        "Closure Planning",
+        "Post-Mining Land Use",
+        "Tailings Management",
+        "Waste Rock Disposal",
+        "Environmental Impact of Mine Waste",
+        "Mining Policies and Regulations",
+        "Transparency and Accountability",
+        "Social License to Operate",
+        "Global Mineral Markets",
+        "Commodity Price Analysis",
+        "Trade and Market Dynamics"
+      ]
+    }
+  },
+  {
+    "Financial Technology (FinTech)": {
+      "Divisions": [
+        "Mobile Payments",
+        "Contactless Payments",
+        "Peer-to-Peer (P2P) Payments",
+        "Blockchain Technology",
+        "Cryptocurrency Development",
+        "Decentralized Finance (DeFi)",
+        "Online Banking Platforms",
+        "Digital-only Banks",
+        "Neobanks",
+        "Automated Investment Algorithms",
+        "Digital Wealth Management Platforms",
+        "Algorithmic Trading",
+        "Digital Insurance Platforms",
+        "Usage-Based Insurance",
+        "Artificial Intelligence in Insurance",
+        "Compliance Automation",
+        "Regulatory Reporting Solutions",
+        "Anti-Money Laundering (AML) Technologies",
+        "Peer-to-Peer Lending",
+        "Crowdfunding Platforms",
+        "Online Marketplace Lending",
+        "API Integration in Financial Services",
+        "Open Banking Platforms",
+        "Data Aggregation and Sharing",
+        "Financial Cyber Threats",
+        "Fraud Detection and Prevention",
+        "Secure Authentication Methods",
+        "Digital Financial Services for the Unbanked",
+        "Microfinance Technologies",
+        "Inclusive Banking Solutions",
+        "Quantum Algorithms for Financial Modeling",
+        "Quantum Cryptography in Finance",
+        "Quantum Machine Learning",
+        "Behavioral Analysis in Financial Decision-Making",
+        "Personal Finance Apps and Behavioral Insights",
+        "User Experience (UX) Research in FinTech"
+      ]
+    }
+  }
+]

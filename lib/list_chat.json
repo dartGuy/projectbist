@@ -1,0 +1,290 @@
+[
+  {
+    "id": "667f19f5eaff9b94372b96ac",
+    "createdAt": "2024-06-28T20:15:49.274Z",
+    "updatedAt": "2024-06-28T20:15:49.274Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96b3",
+        "createdAt": "2024-06-28T20:15:49.475Z",
+        "updatedAt": "2024-06-28T20:15:49.475Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.475Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96ac",
+        "replyTo": null
+      }
+    ]
+  },
+  {
+    "id": "667f19f5eaff9b94372b96ab",
+    "createdAt": "2024-06-28T20:15:49.270Z",
+    "updatedAt": "2024-06-28T20:15:49.270Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": []
+  },
+  {
+    "id": "667f19f5eaff9b94372b96aa",
+    "createdAt": "2024-06-28T20:15:49.257Z",
+    "updatedAt": "2024-06-28T20:15:49.257Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96b1",
+        "createdAt": "2024-06-28T20:15:49.413Z",
+        "updatedAt": "2024-06-28T20:15:49.413Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.412Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96aa",
+        "replyTo": null
+      }
+    ]
+  },
+  {
+    "id": "667f19f5eaff9b94372b96a9",
+    "createdAt": "2024-06-28T20:15:49.255Z",
+    "updatedAt": "2024-06-28T20:15:49.255Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96b0",
+        "createdAt": "2024-06-28T20:15:49.410Z",
+        "updatedAt": "2024-06-28T20:15:49.410Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.410Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96a9",
+        "replyTo": null
+      }
+    ]
+  },
+  {
+    "id": "667f19f5eaff9b94372b96a8",
+    "createdAt": "2024-06-28T20:15:49.232Z",
+    "updatedAt": "2024-06-28T20:15:49.232Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96ad",
+        "createdAt": "2024-06-28T20:15:49.392Z",
+        "updatedAt": "2024-06-28T20:15:49.392Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.392Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96a8",
+        "replyTo": null
+      }
+    ]
+  },
+  {
+    "id": "667f19f5eaff9b94372b96a7",
+    "createdAt": "2024-06-28T20:15:49.230Z",
+    "updatedAt": "2024-06-28T20:15:49.230Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96af",
+        "createdAt": "2024-06-28T20:15:49.408Z",
+        "updatedAt": "2024-06-28T20:15:49.408Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.408Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96a7",
+        "replyTo": null
+      }
+    ]
+  },
+  {
+    "id": "667f19f5eaff9b94372b96a6",
+    "createdAt": "2024-06-28T20:15:49.199Z",
+    "updatedAt": "2024-06-28T20:15:49.199Z",
+    "user1Type": "client",
+    "user2Type": "researcher",
+    "user1": {
+      "id": "6653a8ea003eae63f34b9bba",
+      "fullName": "Shefiu Adeyemi",
+      "userName": "Adeyemi",
+      "email": "addeyemi.99@gmail.com",
+      "role": "client"
+    },
+    "user2": {
+      "id": "6653b6bb8a1b1d006be87464",
+      "fullName": "Jamiu Adeleke",
+      "userName": "Jamiu",
+      "email": "meetjamiuadeleke@gmail.com",
+      "role": "researcher"
+    },
+    "deletedAt": null,
+    "isActive": true,
+    "messages": [
+      {
+        "id": "667f19f5eaff9b94372b96ae",
+        "createdAt": "2024-06-28T20:15:49.397Z",
+        "updatedAt": "2024-06-28T20:15:49.397Z",
+        "status": "sent",
+        "message": "iiii",
+        "senderType": "client",
+        "receiverType": "researcher",
+        "attachment": null,
+        "attachmentType": null,
+        "attachmentName": null,
+        "sentAt": "2024-06-28T20:15:49.397Z",
+        "deliveredAt": null,
+        "readAt": null,
+        "deletedAt": null,
+        "isActive": true,
+        "chat": "667f19f5eaff9b94372b96a6",
+        "replyTo": null
+      }
+    ]
+  }
+]

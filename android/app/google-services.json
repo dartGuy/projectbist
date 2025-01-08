@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483842136792",
+    "project_id": "projectbistapp",
+    "storage_bucket": "projectbistapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483842136792:android:d2196ab2a522b55e3815ad",
+        "android_client_info": {
+          "package_name": "com.projectbist.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483842136792-tbkk55td7vs1lsmv6m28veq5ic7ougeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkmlkP7cniBqW-vptFiF4fnh-lK5c4eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483842136792-tbkk55td7vs1lsmv6m28veq5ic7ougeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

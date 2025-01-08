@@ -1,0 +1,22 @@
+import 'package:project_bist/MODELS/bank_model/bank_model.dart';
+import 'package:project_bist/MODELS/job_model/job_model.dart';
+import 'package:project_bist/MODELS/topics_model/explore_topics_model.dart';
+import 'package:project_bist/MODELS/transaction_models/transaction_model.dart';
+import 'package:project_bist/MODELS/publication_models/publicaiton_model.dart';
+import 'package:project_bist/MODELS/job_model/reseracher_job_model.dart';
+import 'package:project_bist/MODELS/escrow_model/escrow_with_submission_paln_model.dart';
+import "package:project_bist/MODELS/user_profile/user_profile.dart";
+import "package:project_bist/MODELS/reseaecrers_review/researchers_review.dart";
+import "package:project_bist/MODELS/notification_model/notification_model.dart";
+
+typedef BankList = List<BankModel>;
+typedef TransactionList = List<TransactionModel>;
+typedef PublicationsList = List<PublicationModel>;
+typedef TopicsList = List<ExploreTopicsModel>;
+typedef MyJobsList = List<JobModel>;
+typedef ResearcherJobList = List<ResearcherJobModel>;
+typedef EscrowWithSubmissionPlanList = List<EscrowWithSubmissionPlanModel>;
+typedef ResearcherProfilesList = List<UserProfile>;
+typedef ResearcherAppliedJobsList = List<ResearcherJobModel>;
+typedef ResearchersReviewsList = List<ResearchersReview>;
+typedef NotificationsList = List<NotificationModel>;

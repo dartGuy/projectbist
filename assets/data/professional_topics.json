@@ -1,0 +1,2934 @@
+[
+  {
+    "Agriculture/Agro-Allied": {
+      "Divisions": [
+        {
+          "Division": "Crop Production",
+          "Research Topics": [
+            "Enhancing Crop Yield Through Improved Photosynthetic Efficiency",
+            "Investigating Drought Tolerance Mechanisms in Crops",
+            "Impact of Climate Change on Crop Phenology and Production",
+            "Developing High-Yielding and Disease-Resistant Crop Varieties",
+            "Molecular Approaches in Crop Improvement",
+            "Exploring Genetic Diversity for Crop Adaptation",
+            "Integrated Pest Management Strategies for Sustainable Agriculture",
+            "Biological Control of Crop Pests and Diseases",
+            "Eco-friendly Approaches to Minimize Chemical Pesticide Use in Crop Protection",
+            "Soil Health Assessment and Sustainable Crop Nutrition",
+            "Precision Agriculture for Optimizing Fertilizer Use Efficiency",
+            "Impact of Soil Amendments on Crop Productivity and Soil Fertility"
+          ]
+        },
+        {
+          "Division": "Livestock Farming",
+          "Research Topics": [
+            "Formulating Balanced Diets for Improved Livestock Performance",
+            "Nutritional Strategies to Enhance Reproductive Efficiency in Livestock",
+            "Evaluating Alternative Feed Resources for Livestock",
+            "Genomic Selection for Enhancing Genetic Potential in Livestock",
+            "Investigating Genetic Basis of Disease Resistance in Livestock",
+            "Sustainable Breeding Practices for Livestock Improvement",
+            "Disease Surveillance and Control in Livestock Farming",
+            "Animal Welfare and Ethical Considerations in Livestock Production",
+            "Integrating Precision Livestock Farming Technologies",
+            "Sustainable Intensification of Livestock Production Systems",
+            "Agroecological Approaches in Livestock Farming",
+            "Socio-economic Impacts of Livestock Farming Practices"
+          ]
+        },
+        {
+          "Division": "Fisheries and Aquaculture",
+          "Research Topics": [
+            "Improving Fish Hatchery Techniques for Increased Aquaculture Production",
+            "Sustainable Practices in Aquaculture Systems",
+            "Water Quality Management in Aquaculture",
+            "Population Dynamics and Stock Assessment of Fish Species",
+            "Ecosystem-Based Fisheries Management",
+            "Developing Selective Fishing Gear to Reduce Bycatch",
+            "Innovative Technologies for Fish Processing and Preservation",
+            "Value Addition and Market Chain Analysis in Fishery Products",
+            "Application of Remote Sensing and GIS in Fisheries Management",
+            "Integrated Coastal Zone Management for Sustainable Fisheries",
+            "Community-Based Approaches to Marine Resource Management",
+            "Climate Change Adaptation Strategies for Coastal Communities"
+          ]
+        },
+        {
+          "Division": "Agribusiness",
+          "Research Topics": [
+            "Economic Analysis of Climate Change Impacts on Agriculture",
+            "Market Access and Value Chain Analysis in Agribusiness",
+            "Adoption of Sustainable Agricultural Practices: Economic Perspectives",
+            "Assessing the Impact of Agricultural Extension Programs",
+            "Farmer's Knowledge and Adoption of Technological Innovations",
+            "Role of Gender in Agricultural Extension and Rural Development",
+            "Agribusiness Models for Smallholder Farmers",
+            "Risk Management Strategies in Agribusiness",
+            "Innovation and Entrepreneurship in Agribusiness",
+            "Consumer Behavior and Preferences in Agricultural Markets",
+            "Digital Marketing Strategies for Agricultural Products",
+            "Price Transmission and Market Integration in Agricultural Commodities"
+          ]
+        },
+        {
+          "Division": "Horticulture",
+          "Research Topics": [
+            "Postharvest Physiology and Storage Technologies for Fruits and Vegetables",
+            "Sustainable Practices in Organic Fruit and Vegetable Production",
+            "Improving Nutritional Quality of Fruits and Vegetables",
+            "Sustainable Practices in Floriculture and Ornamental Plant Production",
+            "Urban Green Spaces and Ecosystem Services",
+            "Breeding Strategies for Developing Novel Ornamental Plants",
+            "Precision Agriculture Applications in Horticulture",
+            "Water Use Efficiency in Horticultural Crop Production",
+            "Integrated Pest and Disease Management in Horticulture",
+            "Pharmacological Studies and Bioactive Compounds in Medicinal Plants",
+            "Sustainable Harvesting and Conservation of Medicinal Plants",
+            "Essential Oil Extraction Techniques and Quality Assessment"
+          ]
+        },
+        {
+          "Division": "Agricultural Machinery",
+          "Research Topics": [
+            "Development of Smart and Precision Farming Equipment",
+            "Integration of Internet of Things (IoT) in Agricultural Machinery",
+            "Autonomous Agricultural Robots: Challenges and Opportunities",
+            "Enhancing Fuel Efficiency in Tractor and Farm Machinery",
+            "Intelligent Systems for Crop Monitoring and Harvesting",
+            "Sustainable Design and Practices in Agricultural Machinery",
+            "Human-Machine Interaction and Safety Measures in Farm Equipment",
+            "Autonomous Safety Systems for Agricultural Machinery",
+            "Ergonomic Design for Operator Comfort and Safety"
+          ]
+        },
+        {
+          "Division": "Agrochemicals",
+          "Research Topics": [
+            "Ecological Impacts of Pesticides on Non-Target Organisms",
+            "Integrated Pest Management Strategies for Sustainable Agriculture",
+            "Novel Approaches to Reduce Pesticide Residues in Agricultural Products",
+            "Nutrient Management for Soil Health and Crop Productivity",
+            "Impact of Fertilizer Types on Soil Microbial Communities",
+            "Precision Agriculture for Optimal Fertilizer Application",
+            "Biopesticides: Development and Applications",
+            "Organic Farming Practices as Alternatives to Conventional Agrochemicals",
+            "Green Chemistry in Agriculture: Sustainable Alternatives"
+          ]
+        },
+        {
+          "Division": "Agricultural Finance",
+          "Research Topics": [
+            "Assessing the Impact of Microfinance on Smallholder Farmers",
+            "Digital Financial Services for Rural Agricultural Communities",
+            "Risk Management Strategies for Agricultural Loans",
+            "Weather Index Insurance for Crop Protection and Yield Stability",
+            "Role of Agricultural Insurance in Enhancing Resilience",
+            "Adoption and Challenges of Index-Based Insurance in Agriculture",
+            "Evaluation of Investment Opportunities in Agribusiness",
+            "Financing Mechanisms for Agricultural Start-ups and Innovations",
+            "Public-Private Partnerships in Agricultural Finance"
+          ]
+        },
+        {
+          "Division": "Research and Development",
+          "Research Topics": [
+            "Assessing the Impact of Agricultural Research and Extension Services",
+            "Open Innovation Models for Sustainable Agriculture Development",
+            "Adoption of Modern Technologies in Agricultural Research",
+            "Developing Climate-Resilient Crop Varieties and Practices",
+            "Climate-Smart Agriculture: Practices for Mitigating Climate Change",
+            "Remote Sensing and GIS Applications in Agricultural Research",
+            "Factors Influencing Technology Adoption in Smallholder Farming",
+            "Evaluating the Socio-economic Impacts of Agricultural Innovations",
+            "Farmer-Centric Approaches in Technology Adoption and Diffusion"
+          ]
+        },
+        {
+          "Division": "Forestry and Logging",
+          "Research Topics": [
+            "Biodiversity Conservation in Managed Forests",
+            "Forest Certification and Its Impact on Sustainable Logging Practices",
+            "Community-Based Forestry Management: Lessons and Challenges",
+            "Ecological Restoration of Degraded Forest Ecosystems",
+            "Impacts of Climate Change on Forests and Strategies for Adaptation",
+            "Urban Forestry: Enhancing Green Spaces in Urban Environments",
+            "Sustainable Harvesting of Timber and Non-Timber Forest Products",
+            "Medicinal Plant Conservation and Cultivation in Forest Ecosystems",
+            "Market Dynamics of Non-Timber Forest Products"
+          ]
+        },
+        {
+          "Division": "Apiculture (Beekeeping)",
+          "Research Topics": [
+            "Beekeeping Practices for Colony Health and Productivity",
+            "Impact of Pesticides on Honeybee Colonies and Pollination Services",
+            "Integrating Traditional Knowledge with Modern Beekeeping Techniques",
+            "Role of Bees in Pollination and Biodiversity Conservation",
+            "Designing Bee-Friendly Landscapes for Sustainable Apiculture",
+            "Conservation and Management of Indigenous Bee Species",
+            "Factors Affecting Honey Quality and Authentication",
+            "Innovations in Honey Harvesting and Processing",
+            "Beekeeping Entrepreneurship: Challenges and Opportunities"
+          ]
+        },
+        {
+          "Division": "Sericulture (Silk Farming)",
+          "Research Topics": [
+            "Genetic Improvement of Silkworm for Silk Production",
+            "Marker-Assisted Selection in Silkworm Breeding",
+            "Biotechnological Interventions in Sericulture",
+            "Sustainable Practices in Mulberry Cultivation and Management",
+            "Integrated Pest Management in Sericulture",
+            "Sericulture and Sustainable Rural Livelihoods",
+            "Silk Farming Automation and Technological Innovations",
+            "Eco-friendly Dyeing Techniques for Silk",
+            "Silk-Based Biomaterials: Production and Applications"
+          ]
+        },
+        {
+          "Division": "Renewable Energy in Agriculture",
+          "Research Topics": [
+            "Photovoltaic Systems for Off-Grid Agriculture",
+            "Solar-Powered Irrigation Systems: Efficiency and Sustainability",
+            "Integration of Solar Energy in Poultry and Livestock Farming",
+            "Biomass Supply Chain and Conversion Technologies"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Air Services": {
+      "Divisions": [
+        {
+          "Division": "Airline Operations",
+          "Research Topics": [
+            "Optimization of Flight Scheduling for Improved Efficiency",
+            "Cost-Benefit Analysis of Fuel-Efficient Technologies in Aviation",
+            "Airline Crew Management: Enhancing Productivity and Well-being",
+            "Enhancing Passenger Satisfaction in Air Travel",
+            "Impact of In-Flight Entertainment Systems on Passenger Experience",
+            "Strategies for Improving On-Time Performance of Airlines",
+            "Human Factors in Aviation Accidents: Lessons and Prevention Strategies",
+            "Cybersecurity Challenges in Airline Operations and Mitigation Measures",
+            "Emergency Response and Crisis Management in Aviation"
+          ]
+        },
+        {
+          "Division": "Air Cargo Services",
+          "Research Topics": [
+            "Enhancing Efficiency in Air Cargo Logistics",
+            "Sustainability Practices in Air Cargo Operations",
+            "Technologies for Real-time Tracking and Monitoring of Cargo",
+            "Market Trends and Challenges in the Air Freight Industry",
+            "Role of Air Cargo in Global Trade and Economic Development",
+            "Air Cargo Capacity Management: Optimization and Challenges",
+            "Security Measures and Compliance Standards in Air Cargo",
+            "Customs and Regulatory Challenges in Air Cargo Operations",
+            "Emerging Technologies for Cargo Security and Inspection"
+          ]
+        },
+        {
+          "Division": "Aviation Maintenance",
+          "Research Topics": [
+            "Predictive Maintenance: Applications and Benefits",
+            "Reliability-centered Maintenance in Aviation",
+            "Sustainable Practices in Aircraft Maintenance",
+            "Application of Augmented Reality in Aircraft Maintenance",
+            "Role of Artificial Intelligence in Predictive Maintenance",
+            "3D Printing in Aviation: Implications for Spare Parts Production",
+            "Human Factors Analysis and Mitigation Strategies in Aviation Maintenance",
+            "Safety Culture and Continuous Improvement in Aircraft Maintenance",
+            "Regulatory Compliance in Aviation Maintenance"
+          ]
+        },
+        {
+          "Division": "Airport Management",
+          "Research Topics": [
+            "Optimization of Passenger Flow in Airport Terminals",
+            "Smart Airport Technologies: Improving Operations and Services",
+            "Sustainable Practices in Airport Construction and Management",
+            "Risk Assessment and Management in Airport Security",
+            "Emergency Response Planning for Airports",
+            "Integration of Technology in Airport Security Systems",
+            "Airport Master Planning: Strategies for Sustainable Expansion",
+            "The Impact of Climate Change on Airport Infrastructure",
+            "Community Engagement in Airport Development and Expansion"
+          ]
+        },
+        {
+          "Division": "Flight Training",
+          "Research Topics": [
+            "Simulation Technologies in Flight Training",
+            "Training Strategies for Commercial Pilots in Complex Environments",
+            "Assessment and Improvement of Pilot Decision-Making Skills",
+            "Competency-Based Training for Flight Instructors",
+            "Role of Human Factors Education in Flight Instructor Training",
+            "Enhancing Communication Skills in Flight Training",
+            "Virtual Reality and Augmented Reality in Aviation Training",
+            "Gamification in Aviation Training: Engagement and Effectiveness",
+            "E-learning Platforms for Remote Aviation Training"
+          ]
+        },
+        {
+          "Division": "Aircraft Charter",
+          "Research Topics": [
+            "Comparative Analysis of Business Models in Aircraft Charter",
+            "Customer Satisfaction and Loyalty in the Aircraft Charter Industry",
+            "Market Trends and Forecasting in the Aircraft Charter Sector",
+            "Compliance with Safety Regulations in Charter Operations",
+            "Risk Assessment and Management in Aircraft Charter",
+            "Regulatory Challenges and Policy Implications in Charter Operations",
+            "Impact of Technological Advancements on Aircraft Charter",
+            "Innovations in Booking and Reservation Systems for Charter Flights",
+            "Sustainable Practices and Green Initiatives in Aircraft Charter"
+          ]
+        },
+        {
+          "Division": "Aircraft Leasing",
+          "Research Topics": [
+            "Comparative Analysis of Aircraft Leasing Models",
+            "Market Dynamics and Trends in Aircraft Leasing",
+            "Risk Management Strategies for Aircraft Lessors",
+            "Valuation Methods for Aircraft Leasing",
+            "Lease Agreement Negotiations and Financial Structuring",
+            "Accounting Standards and Practices in Aircraft Leasing",
+            "Legal Challenges and Compliance Issues in Aircraft Leasing",
+            "Jurisdictional Variances in Aircraft Leasing Laws",
+            "Lease End Strategies: Renewal, Return, or Purchase"
+          ]
+        },
+        {
+          "Division": "Ground Handling Services",
+          "Research Topics": [
+            "Workflow Optimization in Ground Handling Operations",
+            "Technological Innovations for Efficient Ground Handling",
+            "Workforce Management and Training in Ground Services",
+            "Risk Assessment and Mitigation in Ground Handling Services",
+            "Security Protocols and Compliance in Ground Operations",
+            "Incident Reporting and Analysis in Ground Handling",
+            "Passenger Experience and Satisfaction in Ground Handling",
+            "Handling Special Cargo: Challenges and Best Practices",
+            "Environmental Sustainability Practices in Ground Operations"
+          ]
+        },
+        {
+          "Division": "Aviation Consultancy",
+          "Research Topics": [
+            "Development of Strategic Plans for Airline and Airport Clients",
+            "Market Analysis and Forecasting for Aviation Consultancy Services",
+            "Evaluation of Industry Trends and Competitive Intelligence",
+            "Advisory Services for Regulatory Compliance in the Aviation Industry",
+            "Legal Consultancy in Aviation: Navigating Complex Regulatory Issues",
+            "Impact of Regulatory Changes on Business Models in Aviation",
+            "Organizational Performance Improvement in Aviation",
+            "Change Management Strategies for Airlines and Airports",
+            "Crisis Management and Resilience Planning for Aviation Entities"
+          ]
+        },
+        {
+          "Division": "Air Navigation Services",
+          "Research Topics": [
+            "Next-Generation Air Traffic Management Systems",
+            "Automation and Artificial Intelligence in Air Navigation Services",
+            "Collaborative Decision-Making in Air Traffic Control",
+            "Enhancing Safety through Advanced Navigation Technologies",
+            "Route Optimization and Fuel Efficiency in Air Traffic Management",
+            "Integration of Unmanned Aircraft Systems into Airspace",
+            "Human-Centered Design in Air Traffic Control Operations",
+            "Training and Mental Health Support for Air Traffic Controllers",
+            "Fatigue Management and Shift Scheduling in Air Navigation Services"
+          ]
+        },
+        {
+          "Division": "Aerial Survey and Photography",
+          "Research Topics": [
+            "Applications of Remote Sensing in Aerial Survey and Mapping",
+            "Impact of High-Resolution Imagery on Precision Agriculture",
+            "3D Modeling and Mapping using Aerial Photography",
+            "Aerial Surveys for Environmental Impact Assessment",
+            "Wildlife Conservation through Aerial Surveys",
+            "Monitoring and Management of Natural Resources from the Air",
+            "Drone Technologies for Aerial Survey and Monitoring",
+            "Legal and Ethical Considerations in Aerial Data Collection",
+            "Challenges and Opportunities in Drones for Aerial Mapping"
+          ]
+        },
+        {
+          "Division": "Aircraft Sales and Brokerage",
+          "Research Topics": [
+            "Analysis of Market Trends and Dynamics in Aircraft Sales",
+            "Economic Factors and Their Impact on Aircraft Buying and Selling",
+            "The Role of Aircraft Brokers in Facilitating Sales Transactions",
+            "Tailoring Sales Approaches for Commercial, Private, and Military Aircraft",
+            "Influence of Technological Advancements on Aircraft Sales Strategies",
+            "Customer Relationship Management in the Aircraft Sales Process",
+            "Legal and Regulatory Challenges in Aircraft Sales Transactions",
+            "International Trade Regulations and Their Impact on Aircraft Sales",
+            "Tax Implications in Aircraft Sales and Brokerage"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Banking": {
+      "Divisions": [
+        {
+          "Division": "Bank Operations",
+          "Research Topics": [
+            "Optimization of Workflow Processes in Bank Operations",
+            "Role of Automation and Technology in Enhancing Bank Operations",
+            "Risk Management Strategies in Banking Operations",
+            "Impact of Digital Banking on Customer Satisfaction",
+            "Personalization and Customer Relationship Management in Banking",
+            "Cross-selling and Upselling Strategies in Bank Operations",
+            "Compliance Challenges and Strategies in Evolving Regulatory Landscape",
+            "Corporate Governance Practices in the Banking Sector",
+            "Role of Banks in Achieving Sustainable Development Goals"
+          ]
+        },
+        {
+          "Division": "Retail Banking",
+          "Research Topics": [
+            "Evolution of Retail Banking Models and Customer Expectations",
+            "Mobile Banking and its Influence on Retail Banking Services",
+            "Financial Inclusion Strategies for Retail Banking",
+            "Customer Engagement Strategies in Retail Banking",
+            "Impact of Artificial Intelligence on Personalized Banking Services",
+            "Innovations in Retail Banking Products and Services",
+            "Credit Risk Assessment and Mitigation in Retail Banking",
+            "Fraud Detection and Prevention in Retail Banking",
+            "Regulatory Challenges and Compliance in Retail Banking"
+          ]
+        },
+        {
+          "Division": "Corporate Banking",
+          "Research Topics": [
+            "Debt vs. Equity: Decision-Making in Corporate Financing",
+            "Role of Corporate Banks in Mergers and Acquisitions",
+            "Project Financing and Infrastructure Development",
+            "Building and Sustaining Relationships with Corporate Clients",
+            "Impact of Technological Advancements on Corporate Banking",
+            "Cross-Border Corporate Banking Challenges and Opportunities",
+            "Cybersecurity Threats in Corporate Banking",
+            "Managing Geopolitical Risks in Corporate Banking",
+            "Credit Risk Management in Corporate Lending"
+          ]
+        },
+        {
+          "Division": "Investment Banking",
+          "Research Topics": [
+            "Impact of Fintech on Investment Banking Services",
+            "Sustainable and Impact Investing Trends in Investment Banking",
+            "Initial Public Offerings (IPOs): Challenges and Opportunities",
+            "Valuation Methods and Strategies in Mergers and Acquisitions",
+            "Private Equity and Venture Capital Investments",
+            "Role of Investment Banks in ESG (Environmental, Social, Governance)",
+            "Market Risk Management in Investment Banking",
+            "Regulatory Compliance and Legal Challenges in Investment Banking",
+            "Credit Risk Assessment in Investment Banking"
+          ]
+        },
+        {
+          "Division": "Asset Management",
+          "Research Topics": [
+            "Dynamic Asset Allocation and Portfolio Management",
+            "Impact of Economic Conditions on Asset Management Strategies",
+            "Behavioral Finance and Decision-Making in Asset Management",
+            "Integration of ESG Factors in Asset Management",
+            "Robo-Advisors and Automation in Asset Management",
+            "Challenges and Opportunities in Real Estate Asset Management",
+            "Quantitative Risk Models in Asset Management",
+            "Regulation and Compliance in Asset Management",
+            "Technological Advancements in Risk Management for Asset Managers"
+          ]
+        },
+        {
+          "Division": "Treasury and Cash Management",
+          "Research Topics": [
+            "Optimizing Working Capital through Treasury Management",
+            "Role of Artificial Intelligence in Cash Flow Analysis",
+            "Cybersecurity Measures for Securing Treasury Transactions",
+            "Impact of Interest Rate Fluctuations on Treasury Decisions",
+            "Automation of Payment Processes for Improved Cash Management"
+          ]
+        },
+        {
+          "Division": "Credit and Lending",
+          "Research Topics": [
+            "Small Business Lending: Challenges and Opportunities",
+            "Personal Loan Decision-Making: Factors and Trends",
+            "Digital Transformation in Credit Assessment and Approval",
+            "Credit Risk Mitigation through Diversification",
+            "Fintech Innovations in Consumer Lending"
+          ]
+        },
+        {
+          "Division": "Risk Management",
+          "Research Topics": [
+            "Integrating Environmental, Social, and Governance (ESG) Risks",
+            "Resilience Planning for Pandemics and Global Crises",
+            "Stress Testing and Scenario Analysis in Risk Management",
+            "Role of Artificial Intelligence in Fraud Detection and Prevention",
+            "Role of Leadership in Building a Robust Risk Management Framework"
+          ]
+        },
+        {
+          "Division": "Compliance and Regulatory Affairs",
+          "Research Topics": [
+            "RegTech Solutions for Enhanced Compliance Management",
+            "Regulatory Reporting: Streamlining Processes and Ensuring Accuracy",
+            "Impact of GDPR (General Data Protection Regulation) on Compliance",
+            "Navigating Cross-Border Regulatory Challenges",
+            "Assessing the Effectiveness of Compliance Training Programs"
+          ]
+        },
+        {
+          "Division": "Digital Banking",
+          "Research Topics": [
+            "Biometric Authentication in Digital Banking",
+            "Blockchain Applications in Banking Operations",
+            "User Experience in Mobile Banking Applications",
+            "Cybersecurity Concerns in Online Banking",
+            "Evaluating the Impact of Digital Transformation on Banking Services"
+          ]
+        },
+        {
+          "Division": "Customer Service",
+          "Research Topics": [
+            "Analyzing Customer Feedback and Improving Service Delivery",
+            "Role of AI and Chatbots in Enhancing Customer Support",
+            "Assessing the Impact of Social Media on Customer Service",
+            "Effective Communication and Relationship Management with Customers"
+          ]
+        },
+        {
+          "Division": "International Banking",
+          "Research Topics": [
+            "Role of Central Banks in International Financial Stability",
+            "Managing Political and Economic Risks in International Banking",
+            "Impact of Geopolitical Events on International Banking Operations",
+            "Evaluating the Role of International Financial Institutions",
+            "Regulatory Frameworks and Compliance in International Banking"
+          ]
+        },
+        {
+          "Division": "Financial Advisory",
+          "Research Topics": [
+            "Role of Robo-Advisors in Personal Finance",
+            "Impact of ESG Factors on Investment Advisory Practices",
+            "Fintech Disruption in the Financial Advisory Industry",
+            "Evaluating the Performance of Mutual Funds and Investment Portfolios"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Breweries": {
+      "Divisions": [
+        {
+          "Division": "Brewery Operations",
+          "Research Topics": [
+            "Innovative Approaches to Water and Energy Conservation in Breweries",
+            "Managing Brewery Waste: Recycling and Environmental Responsibility",
+            "Impact of Brewing Ingredients on Flavor Profiles",
+            "Evaluating the Efficiency of Brewing Equipment and Production Lines",
+            "Role of AI and Machine Learning in Brewery Quality Control"
+          ]
+        },
+        {
+          "Division": "Brewing and Fermentation",
+          "Research Topics": [
+            "Impact of Fermentation Temperature on Beer Flavor and Aroma",
+            "Role of Enzymes in Brewing: Enhancing Efficiency and Quality",
+            "Evaluating the Impact of Barrel-Aging on Beer Characteristics",
+            "Innovations in Fermentation Monitoring and Control",
+            "Fermentation Science: Understanding Microbial Interactions"
+          ]
+        },
+        {
+          "Division": "Quality Control",
+          "Research Topics": [
+            "Novel Approaches to Detecting Contaminants in Brewing",
+            "Evaluating the Shelf Life and Stability of Craft Beers",
+            "Microbiological Quality Control in Brewery Operations",
+            "Implementing Quality Management Systems in Breweries",
+            "Ensuring Consistency in Craft Beer Production"
+          ]
+        },
+        {
+          "Division": "Packaging Distribution and Logistics",
+          "Research Topics": [
+            "Innovations in Beer Can Design and Material",
+            "Cold Chain Logistics: Maintaining Beer Quality during Transport",
+            "Role of Smart Packaging in Enhancing Consumer Experience",
+            "Managing Inventory and Distribution Challenges in Craft Beer",
+            "Evaluating the Impact of Labeling and Branding on Consumer Perception"
+          ]
+        },
+        {
+          "Division": "Marketing and Sales",
+          "Research Topics": [
+            "Impact of Social Media on Craft Beer Marketing and Sales",
+            "Taproom Marketing: Creating Unique Experiences for Consumers",
+            "Pricing Strategies and Consumer Behavior in Craft Beer Market",
+            "Role of Packaging Design in Consumer Decision-Making"
+          ]
+        },
+        {
+          "Division": "Research and Development",
+          "Research Topics": [
+            "Exploring Non-Traditional Grains and Adjuncts in Brewing",
+            "Innovations in Hop Breeding and Flavor Development",
+            "Evaluating the Impact of Barrel-Aged Beers on the Market",
+            "Developing Low-Alcohol and Non-Alcoholic Craft Beer",
+            "Exploring the Intersection of Culinary Arts and Craft Brewing"
+          ]
+        },
+        {
+          "Division": "Brand Management",
+          "Research Topics": [
+            "Influencer Marketing: Effectiveness in Brand Promotion",
+            "Cross-Cultural Branding: Challenges and Opportunities",
+            "Digital Branding Trends: Social Media and Online Presence",
+            "Role of Packaging in Enhancing Brand Identity"
+          ]
+        },
+        {
+          "Division": "Supply Chain Management",
+          "Research Topics": [
+            "Blockchain Technology in Supply Chain Management",
+            "Circular Economy Approaches in Supply Chain Operations",
+            "Vendor Relationship Management: Strategies for Success",
+            "Green Logistics: Environmental Sustainability in Supply Chains"
+          ]
+        },
+        {
+          "Division": "Finance and Accounting",
+          "Research Topics": [
+            "Financial Statement Analysis and Decision-Making",
+            "Corporate Governance and Financial Reporting",
+            "Fintech Innovations: Changing Landscape of Financial Services",
+            "Role of Artificial Intelligence in Financial Forecasting"
+          ]
+        },
+        {
+          "Division": "Human Resources",
+          "Research Topics": [
+            "Diversity and Inclusion: Impact on Organizational Performance",
+            "Talent Acquisition in the Digital Age",
+            "Employee Training and Development: Trends and Effectiveness",
+            "Role of HR Technology in Streamlining HR Processes"
+          ]
+        },
+        {
+          "Division": "Environmental Sustainability",
+          "Research Topics": [
+            "Life Cycle Assessment in Sustainable Business Practices",
+            "Sustainable Packaging: Innovations and Challenges",
+            "Environmental Impact Assessments in Business Decision-Making",
+            "Carbon Footprint Reduction Strategies for Businesses"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Building Materials": {
+      "Divisions": [
+        {
+          "Division": "Cement Production",
+          "Research Topics": [
+            "Carbon Capture and Utilization in Cement Industry",
+            "Energy Efficiency Measures in Cement Plants",
+            "Waste Heat Recovery in Cement Kilns",
+            "Cement Supply Chain Management: Challenges and Solutions"
+          ]
+        },
+        {
+          "Division": "Steel Manufacturing",
+          "Research Topics": [
+            "Recycling of Steel Scrap: Environmental and Economic Impacts",
+            "Steel Industry and Circular Economy Integration",
+            "Water Management in Steel Plants: Sustainability Practices"
+          ]
+        },
+        {
+          "Division": "Glass Production",
+          "Research Topics": [
+            "Glass Recycling Technologies and Market Trends",
+            "Energy-Efficient Glass Melting Technologies",
+            "Glass Packaging Innovations: Challenges and Opportunities"
+          ]
+        },
+        {
+          "Division": "Ceramic and Tile Manufacturing",
+          "Research Topics": [
+            "Digital Printing Techniques in Ceramic Tile Manufacturing",
+            "Advanced Glazing Technologies for Energy Efficiency",
+            "Market Trends in Decorative and Artistic Ceramic Tiles"
+          ]
+        },
+        {
+          "Division": "Brick and Concrete Block Production",
+          "Research Topics": [
+            "Innovative Concrete Block Designs and Applications",
+            "Smart Technologies in Brick Manufacturing",
+            "Role of Prefabrication in Concrete Block Production"
+          ]
+        },
+        {
+          "Division": "Roofing Materials Manufacturing",
+          "Research Topics": [
+            "Sustainable Roofing Materials: Trends and Challenges",
+            "Fire-resistant Roofing Materials: Development and Testing",
+            "Innovative Roofing Designs for Extreme Weather Conditions"
+          ]
+        },
+        {
+          "Division": "Paints and Coatings",
+          "Research Topics": [
+            "Impact of Nano-Coatings on Surface Properties",
+            "Biodegradable Paints: Innovation and Market Trends",
+            "Anti-Graffiti Coatings: Challenges and Solutions"
+          ]
+        },
+        {
+          "Division": "Adhesives and Sealants",
+          "Research Topics": [
+            "Role of Adhesives in Composite Material Bonding",
+            "Rheological Properties of Adhesives: Impact on Performance",
+            "Bio-Based Sealants: Production and Performance Evaluation"
+          ]
+        },
+        {
+          "Division": "Insulation Materials",
+          "Research Topics": [
+            "Recycled Insulation Materials: Feasibility and Performance",
+            "Impact of Insulation on Energy Efficiency in Buildings",
+            "Acoustic Insulation Materials: Trends and Developments"
+          ]
+        },
+        {
+          "Division": "Doors and Windows Manufacturing",
+          "Research Topics": [
+            "Security Innovations in Door and Window Systems",
+            "Impact of Window Design on Indoor Air Quality",
+            "Fire-Resistant Materials in Door Manufacturing"
+          ]
+        },
+        {
+          "Division": "Flooring Materials",
+          "Research Topics": [
+            "Impact of Flooring on Indoor Air Quality",
+            "Recycled Materials in Flooring: Challenges and Opportunities",
+            "Slip-Resistant Flooring: Testing and Standards"
+          ]
+        },
+        {
+          "Division": "Sanitary Ware Manufacturing",
+          "Research Topics": [
+            "Smart Sanitary Ware: IoT Integration and Applications",
+            "Water-Efficient Faucets and Showerheads: Design and Performance",
+            "Recycling Technologies for End-of-Life Sanitary Ware"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Chemical & Paints": {
+      "Divisions": [
+        {
+          "Division": "Paints and Coatings Production",
+          "Research Topics": [
+            "Advances in Waterborne Coatings Technology",
+            "Impact of Nanotechnology on Paints and Coatings",
+            "Eco-Friendly Pigments: Development and Applications"
+          ]
+        },
+        {
+          "Division": "Petrochemicals",
+          "Research Topics": [
+            "Petrochemicals in the Age of Renewable Energy",
+            "Carbon Capture and Utilization in Petrochemical Processes",
+            "Advances in Petrochemical Process Optimization"
+          ]
+        },
+        {
+          "Division": "Specialty Chemicals",
+          "Research Topics": [
+            "Green Synthesis of Specialty Chemicals",
+            "Bio-Based Specialty Chemicals: Opportunities and Challenges",
+            "Smart Materials: Applications in the Specialty Chemical Industry"
+          ]
+        },
+        {
+          "Division": "Agrochemicals",
+          "Research Topics": [
+            "Pesticide Alternatives: Biopesticides and Integrated Pest Management",
+            "Impact of Agrochemicals on Soil Health",
+            "Remote Sensing Applications in Monitoring Agrochemical Use"
+          ]
+        },
+        {
+          "Division": "Pharmaceuticals",
+          "Research Topics": [
+            "Personalized Medicine: The Role of Genomics in Drug Development",
+            "Drug Repurposing: Opportunities for Drug Discovery",
+            "Artificial Intelligence in Drug Discovery and Development"
+          ]
+        },
+        {
+          "Division": "Adhesives and Sealants",
+          "Research Topics": [
+            "Bio-Based Sealants: Development and Applications",
+            "Advanced Techniques in Bonding Dissimilar Materials",
+            "Bioinspired Adhesive Systems: Learning from Nature"
+          ]
+        },
+        {
+          "Division": "Resins and Polymers",
+          "Research Topics": [
+            "Polymer Blends and Alloys: Tailoring Properties and Performance",
+            "Circular Economy and Polymer Recycling",
+            "Conductive Polymers: Emerging Applications and Challenges"
+          ]
+        },
+        {
+          "Division": "Surfactants",
+          "Research Topics": [
+            "Surfactants in Personal Care Products: Formulation Trends",
+            "Surfactants for Environmental Remediation",
+            "Surfactants in Drug Delivery Systems"
+          ]
+        },
+        {
+          "Division": "Industrial Gases",
+          "Research Topics": [
+            "Advances in Gas Storage Technologies",
+            "Applications of Industrial Gases in Pharmaceuticals",
+            "Industrial Gases and Their Impact on the Environment"
+          ]
+        },
+        {
+          "Division": "Dyes and Pigments",
+          "Research Topics": [
+            "Photocatalytic Degradation of Dyes in Wastewater Treatment",
+            "Pigment-Based Solar Cells: Recent Developments",
+            "Dyes and Pigments in Textile Industry"
+          ]
+        },
+        {
+          "Division": "Fine Chemicals",
+          "Research Topics": [
+            "Flow Chemistry in Fine Chemical Manufacturing",
+            "Catalytic Processes in Fine Chemical Synthesis",
+            "Novel Approaches to Fine Chemicals Design"
+          ]
+        },
+        {
+          "Division": "Research and Development",
+          "Research Topics": [
+            "Sustainable Practices in Paint and Coating Formulations",
+            "Biodegradable Chemicals: Alternatives in Paint Industry",
+            "Chemical Analysis Techniques for Paint Quality Control"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Commercial/Services": {
+      "Divisions": [
+        {
+          "Division": "Market Research",
+          "Research Topics": [
+            "Impact of Social Media Influencers on Consumer Choices",
+            "Comparative Analysis of Traditional and E-commerce Retail",
+            "Cross-Cultural Consumer Behavior Patterns",
+            "Influence of Online Reviews on Purchase Decisions",
+            "Augmented Reality in Marketing: Opportunities and Risks",
+            "Exploring the Impact of Corporate Social Responsibility",
+            "Omni-Channel Marketing Strategies: A Comparative Study",
+            "Impact of Social Media Analytics on Market Research",
+            "Cross-Cultural Challenges in Global Market Research",
+            "Innovative Approaches to Consumer Perception Measurement"
+          ]
+        },
+        {
+          "Division": "Consumer Behavior Studies",
+          "Research Topics": [
+            "Impulse Buying Behavior in Online and Offline Retail",
+            "Consumer Perception of Sustainable and Ethical Products",
+            "Motivational Factors in Consumer Purchase Decisions"
+          ]
+        },
+        {
+          "Division": "Service Quality Analysis",
+          "Research Topics": [
+            "Technology's Role in Enhancing Service Quality",
+            "Role of Employee Training in Ensuring Service Excellence",
+            "Cross-Industry Comparative Analysis of Service Standards"
+          ]
+        },
+        {
+          "Division": "Supply Chain Management",
+          "Research Topics": [
+            "Blockchain Technology in Enhancing Supply Chain Transparency",
+            "The Role of Artificial Intelligence in Supply Chain Optimization",
+            "Inventory Management Strategies in a Dynamic Market"
+          ]
+        },
+        {
+          "Division": "E-commerce Trends",
+          "Research Topics": [
+            "The Impact of Augmented Reality on E-commerce Shopping",
+            "Personalization Algorithms and User Privacy in E-commerce",
+            "Consumer Trust in Online Payment and Transaction Security"
+          ]
+        },
+        {
+          "Division": "Digital Marketing Strategies",
+          "Research Topics": [
+            "The Role of Artificial Intelligence in Personalized Marketing",
+            "Mobile Marketing Strategies for App Engagement",
+            "Video Marketing Impact on Consumer Engagement"
+          ]
+        },
+        {
+          "Division": "Customer Relationship Management",
+          "Research Topics": [
+            "AI-powered Customer Relationship Management Systems",
+            "Social Media and CRM Integration for Enhanced Customer Insights",
+            "Personalization in Customer Relationship Management"
+          ]
+        },
+        {
+          "Division": "Business Process Outsourcing",
+          "Research Topics": [
+            "The Impact of Artificial Intelligence on BPO Operations",
+            "Comparing BPO Models: Onshore vs. Offshore vs. Nearshore",
+            "Evaluating the Role of Robotics Process Automation (RPA) in BPO"
+          ]
+        },
+        {
+          "Division": "Retail Analytics",
+          "Research Topics": [
+            "Personalization and Customer Experience in Retail Analytics",
+            "Ethical Considerations in Retail Data Collection and Analysis",
+            "Impact of Augmented Reality on In-Store Analytics"
+          ]
+        },
+        {
+          "Division": "Hospitality and Tourism Research",
+          "Research Topics": [
+            "Technology Integration in the Hospitality Industry",
+            "Crisis Management in the Tourism Sector",
+            "Destination Marketing Strategies in a Digital Age"
+          ]
+        },
+        {
+          "Division": "Event Management Studies",
+          "Research Topics": [
+            "Virtual and Hybrid Events: Challenges and Opportunities",
+            "Impact of Social Media on Event Marketing and Attendance",
+            "The Role of Technology in Enhancing Event Experiences"
+          ]
+        },
+        {
+          "Division": "Financial Services Research",
+          "Research Topics": [
+            "Fintech Innovations and Their Impact on Traditional Banking",
+            "Financial Inclusion Strategies for Underrepresented Populations",
+            "Insurtech: Technological Advancements in the Insurance Sector"
+          ]
+        },
+        {
+          "Division": "Logistics and Transportation Studies",
+          "Research Topics": [
+            "Future of Autonomous Vehicles in Logistics and Transportation",
+            "The Role of Big Data Analytics in Optimizing Logistics",
+            "Impact of E-commerce Growth on Transportation Networks"
+          ]
+        },
+        {
+          "Division": "Real Estate Market Analysis",
+          "Research Topics": [
+            "Residential Real Estate Trends: Urban vs. Suburban",
+            "Commercial Real Estate Market Analysis in a Post-Pandemic World",
+            "Evaluating the Role of ESG Factors in Real Estate Investment"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Computer & Office Equipment": {
+      "Divisions": [
+        {
+          "Division": "Computer Hardware",
+          "Research Topics": [
+            "Sustainable Practices in Manufacturing Computer Hardware",
+            "The Role of Artificial Intelligence in Enhancing Hardware",
+            "Challenges in Achieving Security in IoT Devices"
+          ]
+        },
+        {
+          "Division": "Software Development",
+          "Research Topics": [
+            "The Impact of DevOps on Software Development Processes",
+            "Software Quality Assurance and Testing Practices",
+            "Ethical Considerations in AI-Driven Software Development"
+          ]
+        },
+        {
+          "Division": "Networking Solutions",
+          "Research Topics": [
+            "Software-Defined Networking (SDN) and Network Virtualization",
+            "Evaluating the Performance of Edge Computing in Networks",
+            "The Role of AI in Network Anomaly Detection"
+          ]
+        },
+        {
+          "Division": "Cybersecurity",
+          "Research Topics": [
+            "Human Factors in Cybersecurity: Understanding User Behavior",
+            "Security Challenges in IoT Devices and Networks",
+            "Evaluating the Effectiveness of Cybersecurity Awareness Programs"
+          ]
+        },
+        {
+          "Division": "Data Storage",
+          "Research Topics": [
+            "Impact of Big Data on Storage Infrastructure",
+            "Ensuring Data Integrity and Privacy in Cloud Storage",
+            "Evaluating the Environmental Impact of Data Storage Solutions"
+          ]
+        },
+        {
+          "Division": "Cloud Computing",
+          "Research Topics": [
+            "Serverless Computing: Advantages and Challenges",
+            "Governance and Compliance in Cloud Environments",
+            "Resilience and Disaster Recovery Planning in Cloud Services"
+          ]
+        },
+        {
+          "Division": "Office Automation",
+          "Research Topics": [
+            "Document Management Systems: Trends and Effectiveness",
+            "Security Considerations in Office Automation Solutions",
+            "UX/UI Design in Enterprise Software Applications"
+          ]
+        },
+        {
+          "Division": "Printers and Imaging",
+          "Research Topics": [
+            "Sustainable Printing Practices in the Corporate Environment",
+            "Accessibility Features in Modern Printing Devices",
+            "Bio-Ink: Innovations in Bioprinting Technology"
+          ]
+        },
+        {
+          "Division": "Peripheral Devices",
+          "Research Topics": [
+            "Biometric Authentication in Peripheral Devices",
+            "Usability and Accessibility of Wearable Peripheral Devices",
+            "Evaluating the Environmental Impact of Electronic Waste"
+          ]
+        },
+        {
+          "Division": "Digital Workplace Solutions",
+          "Research Topics": [
+            "Security Challenges in Cloud-Based Collaboration Platforms",
+            "Evaluating the Effectiveness of AI-driven Workflow Automation",
+            "Personalization and Customization Features in Digital Workspaces"
+          ]
+        },
+        {
+          "Division": "User Experience (UX) Research",
+          "Research Topics": [
+            "Cross-Cultural Differences in User Experience Perception",
+            "The Role of Emotional Design in Improving User Satisfaction",
+            "Impact of Dark Mode on User Experience in Digital Products"
+          ]
+        },
+        {
+          "Division": "Artificial Intelligence in Office Systems",
+          "Research Topics": [
+            "Explainable AI for Decision-Making in Business",
+            "AI-Enhanced Data Analytics for Office Efficiency",
+            "Human-AI Collaboration in Document Creation and Editing"
+          ]
+        },
+        {
+          "Division": "Ergonomics and Office Design",
+          "Research Topics": [
+            "The Role of Office Layouts in Promoting Collaboration",
+            "Integrating Biophilic Design Principles in Office Spaces",
+            "Technostress: Managing Stress in the Digital Workplace"
+          ]
+        },
+        {
+          "Division": "Technology Adoption in Workplaces",
+          "Research Topics": [
+            "Barriers to the Adoption of Emerging Technologies in Offices",
+            "Managing the Digital Generation Gap in the Workplace",
+            "Cybersecurity Awareness and Training in Modern Workplaces"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Conglomerates": {
+      "Divisions": [
+        {
+          "Division": "Diversification Strategies",
+          "Research Topics": [
+            "Evaluating the Risks and Rewards of Diversification",
+            "Sustainable Diversification in the Global Market",
+            "Behavioral Factors in Managerial Decision-Making on Diversification"
+          ]
+        },
+        {
+          "Division": "Mergers and Acquisitions",
+          "Research Topics": [
+            "Hostile Takeovers: Assessing the Consequences",
+            "M&A Failures: Identifying Contributing Factors",
+            "Role of Communication in Post-Merger Integration"
+          ]
+        },
+        {
+          "Division": "Corporate Governance",
+          "Research Topics": [
+            "Shareholder Activism: Balancing Interests in Corporate Governance",
+            "Transparency and Accountability in Corporate Governance",
+            "Role of AI in Enhancing Corporate Governance Processes"
+          ]
+        },
+        {
+          "Division": "Financial Management",
+          "Research Topics": [
+            "Impact of Financial Literacy Programs on Personal Finance",
+            "Cryptocurrency: Challenges and Opportunities for Financial Managers",
+            "Financial Inclusion Strategies for Emerging Economies"
+          ]
+        },
+        {
+          "Division": "Strategic Planning",
+          "Research Topics": [
+            "Scenario Planning for Uncertain Business Environments",
+            "Integrating Sustainability into Corporate Strategies",
+            "Digital Transformation and its Impacts on Strategic Planning"
+          ]
+        },
+        {
+          "Division": "Risk Management",
+          "Research Topics": [
+            "Evaluating the Effectiveness of Enterprise Risk Management",
+            "Identifying and Managing Supply Chain Risks",
+            "Systemic Risks in Global Financial Markets"
+          ]
+        },
+        {
+          "Division": "Supply Chain Integration",
+          "Research Topics": [
+            "Blockchain Technology in Supply Chain Integration",
+            "Sustainable Practices in Supply Chain Integration",
+            "The Impact of Globalization on Supply Chain Integration"
+          ]
+        },
+        {
+          "Division": "Sustainability Practices",
+          "Research Topics": [
+            "Environmental Sustainability in Conglomerates",
+            "Corporate Social Responsibility in Diverse Industries",
+            "Sustainable Supply Chain Management",
+            "Green Technology Adoption in Conglomerate Operations"
+          ]
+        },
+        {
+          "Division": "Innovation and Technology Adoption",
+          "Research Topics": [
+            "Technological Innovations in Conglomerate Businesses",
+            "Digital Transformation Strategies",
+            "Adoption of Artificial Intelligence in Diverse Sectors"
+          ]
+        },
+        {
+          "Division": "Global Market Expansion",
+          "Research Topics": [
+            "Market Entry Strategies for International Expansion",
+            "Assessing Global Market Opportunities for Conglomerates",
+            "Challenges and Opportunities in Expanding to New Markets"
+          ]
+        },
+        {
+          "Division": "Market Entry Strategies",
+          "Research Topics": [
+            "Entry Modes: Joint Ventures vs. Subsidiaries",
+            "Navigating Regulatory Challenges in New Market Entries",
+            "Assessing Cultural Impacts on Market Entry Decisions"
+          ]
+        },
+        {
+          "Division": "Brand Management in Conglomerates",
+          "Research Topics": [
+            "Building a Cohesive Brand Portfolio",
+            "Maintaining Brand Consistency Across Diverse Products",
+            "Brand Positioning Strategies in a Conglomerate Context"
+          ]
+        },
+        {
+          "Division": "Human Resource Management",
+          "Research Topics": [
+            "Talent Acquisition and Retention in Conglomerate Settings",
+            "Diversity and Inclusion Initiatives in Human Resources",
+            "Employee Engagement Strategies in Large Corporations"
+          ]
+        },
+        {
+          "Division": "Crisis Management",
+          "Research Topics": [
+            "Crisis Communication Strategies for Conglomerates",
+            "Resilience and Adaptability in Times of Crisis",
+            "Managing Reputational Risks in Conglomerate Environments"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Construction": {
+      "Divisions": [
+        {
+          "Division": "Civil Engineering",
+          "Research Topics": [
+            "Sustainable Infrastructure Development",
+            "Innovations in Civil Engineering Practices",
+            "Climate-Resilient Construction Techniques"
+          ]
+        },
+        {
+          "Division": "Structural Engineering",
+          "Research Topics": [
+            "Advanced Analysis and Design of High-Rise Structures",
+            "Seismic Retrofitting Techniques",
+            "Application of Artificial Intelligence in Structural Design"
+          ]
+        },
+        {
+          "Division": "Architectural Design",
+          "Research Topics": [
+            "Integrating Sustainability in Architectural Design",
+            "Parametric Design and Generative Architectural Processes",
+            "Architectural Heritage Conservation and Adaptive Reuse"
+          ]
+        },
+        {
+          "Division": "Project Management",
+          "Research Topics": [
+            "Critical Factors Influencing Project Success",
+            "Agile Project Management in Construction Projects",
+            "Risk Management Strategies in Large-Scale Projects"
+          ]
+        },
+        {
+          "Division": "Cost Estimation and Analysis",
+          "Research Topics": [
+            "Advanced Cost Estimation Models in Construction",
+            "Life-Cycle Cost Analysis for Infrastructure Projects",
+            "Comparative Analysis of Traditional and BIM-Based Estimation"
+          ]
+        },
+        {
+          "Division": "Construction Materials",
+          "Research Topics": [
+            "Innovations in Sustainable Construction Materials",
+            "Recycling and Reusing Materials in Construction",
+            "Advanced Testing and Quality Control of Construction Materials"
+          ]
+        },
+        {
+          "Division": "Building Codes and Standards",
+          "Research Topics": [
+            "Evaluation of Building Codes for Seismic-Prone Areas",
+            "International Harmonization of Building Standards",
+            "Implications of Emerging Technologies on Building Codes"
+          ]
+        },
+        {
+          "Division": "Health and Safety in Construction",
+          "Research Topics": [
+            "Impact of Health and Safety Training on Construction Workers",
+            "Implementing AI for Real-Time Safety Monitoring on Construction Sites",
+            "Psychosocial Factors Affecting Safety Performance in Construction"
+          ]
+        },
+        {
+          "Division": "Sustainable Construction Practices",
+          "Research Topics": [
+            "Life-Cycle Assessment of Sustainable Building Materials",
+            "Evaluating the Environmental Impact of Green Construction Practices",
+            "Adoption and Challenges of Circular Construction Practices"
+          ]
+        },
+        {
+          "Division": "Urban Planning and Development",
+          "Research Topics": [
+            "Smart Cities: Integration of Technology in Urban Planning",
+            "Inclusive Urban Development Strategies for Social Equity",
+            "Transit-Oriented Development and its Impact on Urban Mobility"
+          ]
+        },
+        {
+          "Division": "Infrastructure Management",
+          "Research Topics": [
+            "Asset Management in Infrastructure Projects",
+            "Resilience Planning for Critical Infrastructure Systems",
+            "Incorporating Smart Technologies in Infrastructure Management"
+          ]
+        },
+        {
+          "Division": "Construction Technology",
+          "Research Topics": [
+            "Building Information Modeling (BIM) in Construction",
+            "Robotics and Automation in Construction",
+            "3D Printing Technology for Construction Applications"
+          ]
+        },
+        {
+          "Division": "Real Estate Development",
+          "Research Topics": [
+            "Economic and Social Impacts of Real Estate Development",
+            "Risk Management Strategies in Real Estate Investments",
+            "Sustainable Practices in Real Estate Development"
+          ]
+        },
+        {
+          "Division": "Social Impact of Construction Projects",
+          "Research Topics": [
+            "Community Engagement in Construction Projects",
+            "Assessing Social Equity in Infrastructure Development",
+            "Evaluating the Cultural and Social Impacts of Construction Projects"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Engineering Technology": {
+      "Divisions": [
+        {
+          "Division": "Mechanical Engineering",
+          "Research Topics": [
+            "Energy-Efficient HVAC Systems for Sustainable Buildings",
+            "Analysis of Composite Materials in Aerospace Applications",
+            "Advanced Techniques in Manufacturing Processes"
+          ]
+        },
+        {
+          "Division": "Electrical Engineering",
+          "Research Topics": [
+            "Smart Grids: Integration and Challenges",
+            "Power System Stability and Control",
+            "Development of High-Efficiency Power Electronics"
+          ]
+        },
+        {
+          "Division": "Electronic Engineering",
+          "Research Topics": [
+            "Internet of Things (IoT) Applications in Smart Cities",
+            "Wearable Technology for Healthcare Monitoring",
+            "Development of Flexible Electronics for Wearable Devices"
+          ]
+        },
+        {
+          "Division": "Civil Engineering",
+          "Research Topics": [
+            "Seismic Resilience of Infrastructure",
+            "Sustainable Construction Practices",
+            "Advanced Technologies in Geotechnical Engineering"
+          ]
+        },
+        {
+          "Division": "Chemical Engineering",
+          "Research Topics": [
+            "Sustainable Chemical Processes and Green Chemistry",
+            "Applications of Nanotechnology in Chemical Engineering",
+            "Process Intensification in Chemical Manufacturing"
+          ]
+        },
+        {
+          "Division": "Biomedical Engineering",
+          "Research Topics": [
+            "Biomechanics and Biomaterials for Medical Applications",
+            "Biomedical Imaging Techniques and Image Processing",
+            "Neural Engineering: Enhancing Brain-Machine Interfaces"
+          ]
+        },
+        {
+          "Division": "Aerospace Engineering",
+          "Research Topics": [
+            "Aerodynamics and Flight Mechanics",
+            "Advanced Materials in Aerospace Engineering",
+            "Autonomous Systems in Aerospace Applications"
+          ]
+        },
+        {
+          "Division": "Computer Engineering",
+          "Research Topics": [
+            "Edge Computing and Its Applications",
+            "Quantum Computing: Challenges and Opportunities",
+            "Machine Learning for Cybersecurity"
+          ]
+        },
+        {
+          "Division": "Environmental Engineering",
+          "Research Topics": [
+            "Water Quality Assessment and Management",
+            "Air Pollution Monitoring and Control",
+            "Waste-to-Energy Technologies"
+          ]
+        },
+        {
+          "Division": "Industrial Engineering",
+          "Research Topics": [
+            "Supply Chain Optimization and Logistics Management",
+            "Human Factors Engineering in Work Environments",
+            "Lean Manufacturing and Six Sigma Applications"
+          ]
+        },
+        {
+          "Division": "Materials Engineering",
+          "Research Topics": [
+            "Advanced Materials for Energy Storage",
+            "Nanomaterials and Their Applications in Engineering",
+            "Computational Modeling of Material Properties"
+          ]
+        },
+        {
+          "Division": "Renewable Energy Technology",
+          "Research Topics": [
+            "Solar Photovoltaic Technologies and Innovations",
+            "Wind Energy Integration and Grid Stability",
+            "Bioenergy: Advances in Biomass Conversion Technologies"
+          ]
+        },
+        {
+          "Division": "Automation and Control Systems",
+          "Research Topics": [
+            "Industry 4.0: Smart Manufacturing and Automation",
+            "Control Systems for Autonomous Vehicles",
+            "Machine Vision and Robotics in Automated Systems"
+          ]
+        },
+        {
+          "Division": "Robotics and Artificial Intelligence",
+          "Research Topics": [
+            "Human-Robot Collaboration in Manufacturing",
+            "Deep Learning Algorithms for Robotics",
+            "Ethical Considerations in AI and Robotics Applications"
+          ]
+        },
+        {
+          "Division": "Telecommunications Engineering",
+          "Research Topics": [
+            "5G and Beyond: Emerging Technologies in Telecommunications",
+            "Network Security Challenges in Telecommunication Systems",
+            "Satellite Communication Systems and Space-Based Technologies"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Food/Beverages & Tobacco": {
+      "Divisions": [
+        {
+          "Division": "Food Processing",
+          "Research Topics": [
+            "Innovative Technologies in Food Processing",
+            "Optimization of Thermal Processing for Improved Food Quality",
+            "Development of Sustainable Packaging Solutions for Processed Foods"
+          ]
+        },
+        {
+          "Division": "Beverage Production",
+          "Research Topics": [
+            "Trends in Non-Alcoholic Beverage Production",
+            "Quality Control and Standardization in Alcoholic Beverage Industry",
+            "Exploring Natural Ingredients for Beverage Formulation"
+          ]
+        },
+        {
+          "Division": "Tobacco Manufacturing",
+          "Research Topics": [
+            "Harm Reduction Strategies in Tobacco Manufacturing",
+            "Advances in Tobacco Flavoring and Additives",
+            "Regulatory Compliance in the Tobacco Industry"
+          ]
+        },
+        {
+          "Division": "Nutrition and Dietetics",
+          "Research Topics": [
+            "Nutritional Interventions for Chronic Diseases",
+            "Dietary Approaches to Enhance Sports Performance",
+            "Impact of Nutrigenomics on Personalized Nutrition"
+          ]
+        },
+        {
+          "Division": "Quality Control in Food Industry",
+          "Research Topics": [
+            "Advances in Sensory Evaluation Techniques",
+            "Application of Digital Technologies in Quality Assurance",
+            "Assurance of Food Safety and Quality Standards"
+          ]
+        },
+        {
+          "Division": "Supply Chain Management in Food",
+          "Research Topics": [
+            "Traceability and Transparency in Food Supply Chains",
+            "Integration of Blockchain for Enhanced Food Traceability",
+            "Resilience and Adaptability in Global Food Supply Chains"
+          ]
+        },
+        {
+          "Division": "Packaging Technology",
+          "Research Topics": [
+            "Sustainable Packaging Innovations for Food Products",
+            "Active and Intelligent Packaging for Extended Shelf Life",
+            "Consumer Perception of Eco-Friendly Packaging Materials"
+          ]
+        },
+        {
+          "Division": "Flavor and Fragrance Research",
+          "Research Topics": [
+            "Identification of Bioactive Compounds for Natural Flavors",
+            "Advances in Encapsulation Techniques for Flavor Delivery",
+            "Impact of Aroma Compounds on Consumer Preferences"
+          ]
+        },
+        {
+          "Division": "Brewing and Distillation",
+          "Research Topics": [
+            "Craft Beer Trends and Innovations",
+            "Distillation Techniques in Spirits Production",
+            "Exploring Alternative Grains in Brewing Industry"
+          ]
+        },
+        {
+          "Division": "Dairy Technology",
+          "Research Topics": [
+            "Innovations in Dairy Processing and Product Development",
+            "Functional Dairy Products for Health and Wellness",
+            "Milk Quality and Safety Management in Dairy Industry"
+          ]
+        },
+        {
+          "Division": "Wine and Spirits Production",
+          "Research Topics": [
+            "Terroir Effects on Wine Quality and Characteristics",
+            "Barrel Aging Techniques in Distilled Spirits Production",
+            "Trends in Low-Alcohol and Non-Alcoholic Wine and Spirits"
+          ]
+        },
+        {
+          "Division": "Culinary Arts and Gastronomy",
+          "Research Topics": [
+            "Molecular Gastronomy: Techniques and Applications",
+            "Fusion Cuisine: Cross-Cultural Culinary Innovations",
+            "Culinary Tourism: Exploring the Intersection of Food and Travel"
+          ]
+        },
+        {
+          "Division": "Food Safety and Regulations",
+          "Research Topics": [
+            "Food Safety Management Systems in Compliance with Regulations",
+            "International Food Standards and Harmonization",
+            "Regulatory Challenges in Novel Food Ingredients"
+          ]
+        },
+        {
+          "Division": "Market Trends in Food and Beverages",
+          "Research Topics": [
+            "Sustainable and Plant-Based Food Trends",
+            "Clean Label and Transparency in Food Labeling",
+            "Impact of Social Media on Consumer Choices in Food and Beverages"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Healthcare": {
+      "Divisions": [
+        {
+          "Division": "Medical Research",
+          "Research Topics": [
+            "Advancements in Precision Medicine",
+            "Epidemiological Studies on Emerging Diseases",
+            "Applications of Artificial Intelligence in Medical Research"
+          ]
+        },
+        {
+          "Division": "Pharmaceuticals",
+          "Research Topics": [
+            "Development of Novel Drug Delivery Systems",
+            "Drug Repurposing Strategies for Existing Medications",
+            "Regulatory Challenges in Pharmaceutical Industry"
+          ]
+        },
+        {
+          "Division": "Biotechnology",
+          "Research Topics": [
+            "Genomic Medicine: Opportunities and Challenges",
+            "Biopharmaceuticals: Innovations in Therapeutic Proteins",
+            "CRISPR Technology: Current Applications in Biotechnology"
+          ]
+        },
+        {
+          "Division": "Health Informatics",
+          "Research Topics": [
+            "Implementation of Electronic Health Records (EHR)",
+            "Big Data Analytics for Health Data Management",
+            "Interoperability Challenges in Health Information Exchange"
+          ]
+        },
+        {
+          "Division": "Clinical Trials and Research",
+          "Research Topics": [
+            "Patient Recruitment and Retention in Clinical Trials",
+            "Ethical Considerations in Clinical Research",
+            "Adaptive Clinical Trial Designs: Prospects and Challenges"
+          ]
+        },
+        {
+          "Division": "Public Health",
+          "Research Topics": [
+            "Community-Based Interventions for Disease Prevention",
+            "Global Health Security: Preparedness and Response",
+            "Social Determinants of Health and Health Inequities"
+          ]
+        },
+        {
+          "Division": "Healthcare Administration",
+          "Research Topics": [
+            "Healthcare Leadership and Management Strategies",
+            "Quality Improvement Initiatives in Healthcare Organizations",
+            "Health Information Management in Hospital Administration"
+          ]
+        },
+        {
+          "Division": "Nursing and Patient Care",
+          "Research Topics": [
+            "Patient-Centered Care Models in Nursing Practice",
+            "Palliative Care and End-of-Life Nursing Interventions",
+            "Nursing Education and Training: Meeting Contemporary Challenges"
+          ]
+        },
+        {
+          "Division": "Medical Imaging",
+          "Research Topics": [
+            "Advances in Radiological Imaging Techniques",
+            "Artificial Intelligence in Medical Imaging Diagnosis",
+            "Image-Guided Interventions in Diagnostic Radiology"
+          ]
+        },
+        {
+          "Division": "Healthcare Policy and Management",
+          "Research Topics": [
+            "Health Policy Analysis: Impact on Population Health",
+            "Health Insurance Reforms and Access to Healthcare",
+            "Healthcare Disparities: Addressing Inequalities in Access"
+          ]
+        },
+        {
+          "Division": "Disease Prevention and Control",
+          "Research Topics": [
+            "Vaccination Strategies for Infectious Disease Control",
+            "Lifestyle Interventions for Chronic Disease Prevention",
+            "Surveillance Systems in Global Disease Control"
+          ]
+        },
+        {
+          "Division": "Pharmacy and Medicinal Chemistry",
+          "Research Topics": [
+            "Drug Discovery and Development in Medicinal Chemistry",
+            "Pharmacogenomics: Personalized Medicine Approaches",
+            "Antimicrobial Resistance: Challenges and Strategies"
+          ]
+        },
+        {
+          "Division": "Health Economics",
+          "Research Topics": [
+            "Economic Evaluation of Healthcare Interventions",
+            "Health Expenditure and Financing Models",
+            "Cost-Effectiveness Analysis in Health Economics"
+          ]
+        },
+        {
+          "Division": "Healthcare Technology",
+          "Research Topics": [
+            "Telemedicine and Remote Patient Monitoring",
+            "Wearable Health Devices: Applications and Challenges",
+            "Cybersecurity in Healthcare Information Technology"
+          ]
+        },
+        {
+          "Division": "Mental Health Studies",
+          "Research Topics": [
+            "Stigma Reduction Strategies in Mental Health Care",
+            "Telepsychiatry: Access to Mental Health Services",
+            "Integrating Mental Health into Primary Care Settings"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Hotel & Tourism": {
+      "Divisions": [
+        {
+          "Division": "Hotel Operations",
+          "Research Topics": [
+            "Enhancing Hotel Operational Efficiency",
+            "Technology Integration in Hotel Management",
+            "Crisis Management in Hotel Operations"
+          ]
+        },
+        {
+          "Division": "Tourism Marketing",
+          "Research Topics": [
+            "Digital Marketing Strategies for Tourism",
+            "Destination Branding in Tourism Marketing",
+            "Social Media Influence on Tourist Decisions"
+          ]
+        },
+        {
+          "Division": "Event Management",
+          "Research Topics": [
+            "Sustainable Practices in Event Management",
+            "Innovations in Event Technology",
+            "Risk Management in Large-scale Events"
+          ]
+        },
+        {
+          "Division": "Travel and Tourism Economics",
+          "Research Topics": [
+            "Economic Impact of Tourism on Local Economies",
+            "Pricing Strategies in Travel and Tourism",
+            "Economic Sustainability of Tourism Industries"
+          ]
+        },
+        {
+          "Division": "Culinary Tourism",
+          "Research Topics": [
+            "Culinary Tourism Trends and Influences",
+            "Cultural Impacts on Culinary Tourism",
+            "Gastronomy Tourism and Destination Development"
+          ]
+        },
+        {
+          "Division": "Hotel Technology and Innovation",
+          "Research Topics": [
+            "Emerging Technologies in the Hotel Industry",
+            "Smart Hotel Rooms: Enhancing Guest Experience",
+            "Data Analytics in Hotel Operations"
+          ]
+        },
+        {
+          "Division": "Sustainable Tourism",
+          "Research Topics": [
+            "Environmental Sustainability in Tourism",
+            "Community Engagement in Sustainable Tourism",
+            "Certification Programs for Sustainable Tourism"
+          ]
+        },
+        {
+          "Division": "Destination Management",
+          "Research Topics": [
+            "Destination Competitiveness and Management",
+            "Heritage Conservation in Destination Management",
+            "Crisis Response and Destination Management"
+          ]
+        },
+        {
+          "Division": "Customer Experience in Hospitality",
+          "Research Topics": [
+            "Personalization in Hotel Customer Service",
+            "Customer Satisfaction Metrics in Hospitality",
+            "Technology and the Guest Experience in Hotels"
+          ]
+        },
+        {
+          "Division": "Tourism Policy and Planning",
+          "Research Topics": [
+            "Role of Government Policies in Tourism Planning",
+            "Stakeholder Collaboration in Tourism Development",
+            "Sustainable Tourism Policy Implementation"
+          ]
+        },
+        {
+          "Division": "Adventure Tourism",
+          "Research Topics": [
+            "Risk Management in Adventure Tourism",
+            "Cultural Sensitivity in Adventure Travel",
+            "Innovation in Adventure Tourism Products"
+          ]
+        },
+        {
+          "Division": "Cultural Heritage Tourism",
+          "Research Topics": [
+            "Preserving Cultural Heritage in Tourism",
+            "Cultural Interpretation in Heritage Tourism",
+            "Authenticity and Commercialization in Heritage Tourism"
+          ]
+        },
+        {
+          "Division": "Eco-tourism",
+          "Research Topics": [
+            "Biodiversity Conservation in Eco-tourism",
+            "Ecotourism and Local Community Empowerment",
+            "Sustainable Practices in Eco-tourism"
+          ]
+        },
+        {
+          "Division": "Hospitality Human Resources",
+          "Research Topics": [
+            "Employee Training and Development in Hospitality",
+            "Diversity and Inclusion in Hospitality Workforce",
+            "Employee Retention Strategies in the Hotel Industry"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Industrial/Domestic Products": {
+      "Divisions": [
+        {
+          "Division": "Quality Assurance and Control",
+          "Research Topics": [
+            "Statistical Process Control in Manufacturing",
+            "Six Sigma Implementation in Quality Assurance",
+            "Total Quality Management Practices"
+          ]
+        },
+        {
+          "Division": "Product Design and Innovation",
+          "Research Topics": [
+            "User-Centered Design for Innovative Products",
+            "Design Thinking in Product Development",
+            "Sustainable Product Design Strategies"
+          ]
+        },
+        {
+          "Division": "Supply Chain Management",
+          "Research Topics": [
+            "Blockchain Technology in Supply Chain Management",
+            "Lean Manufacturing Principles in Supply Chains",
+            "Resilience in Supply Chain Management"
+          ]
+        },
+        {
+          "Division": "Industrial Automation",
+          "Research Topics": [
+            "Robotics and Automation in Manufacturing",
+            "Internet of Things (IoT) in Industrial Automation",
+            "Human-Machine Collaboration in Automation"
+          ]
+        },
+        {
+          "Division": "Materials Science",
+          "Research Topics": [
+            "Advanced Materials for Industrial Applications",
+            "Sustainable Materials in Product Manufacturing",
+            "Nanotechnology in Materials Science"
+          ]
+        },
+        {
+          "Division": "Domestic Appliances",
+          "Research Topics": [
+            "Smart Home Appliances and Connectivity",
+            "Energy-Efficient Domestic Appliances",
+            "Design and User Experience in Domestic Appliances"
+          ]
+        },
+        {
+          "Division": "Consumer Electronics",
+          "Research Topics": [
+            "Emerging Trends in Consumer Electronics",
+            "Wearable Technology and Consumer Electronics",
+            "E-Waste Management in Consumer Electronics"
+          ]
+        },
+        {
+          "Division": "Home and Office Furniture",
+          "Research Topics": [
+            "Ergonomic Design in Furniture Manufacturing",
+            "Sustainable Practices in Furniture Production",
+            "Customization Trends in Furniture Design"
+          ]
+        },
+        {
+          "Division": "Textile and Apparel Manufacturing",
+          "Research Topics": [
+            "Sustainable Practices in Textile Production",
+            "Smart Textiles and Wearables",
+            "Circular Economy in Apparel Manufacturing"
+          ]
+        },
+        {
+          "Division": "Personal Care Products",
+          "Research Topics": [
+            "Trends in Personal Care Product Development",
+            "Green Chemistry in Personal Care Formulations",
+            "Consumer Preferences in Personal Care Products"
+          ]
+        },
+        {
+          "Division": "Packaging Technology",
+          "Research Topics": [
+            "Sustainable Packaging Solutions",
+            "Smart Packaging Technologies",
+            "Innovations in Food Packaging"
+          ]
+        },
+        {
+          "Division": "Appliance Energy Efficiency",
+          "Research Topics": [
+            "Energy-Efficient Technologies in Appliances",
+            "Regulatory Standards for Appliance Energy Efficiency",
+            "Consumer Awareness and Energy-Efficient Appliances"
+          ]
+        },
+        {
+          "Division": "Consumer Product Safety",
+          "Research Topics": [
+            "Regulatory Compliance in Product Safety",
+            "Risk Assessment and Mitigation in Product Safety",
+            "Consumer Education on Product Safety"
+          ]
+        },
+        {
+          "Division": "Environmental Sustainability",
+          "Research Topics": [
+            "Green Manufacturing Practices",
+            "Life Cycle Assessment in Product Sustainability",
+            "Carbon Footprint Reduction in Manufacturing"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Information & Communication Technology": {
+      "Divisions": [
+        {
+          "Division": "Software Development",
+          "Research Topics": [
+            "Software Testing Automation",
+            "Agile Development Methodologies",
+            "DevOps Implementation in Software Projects"
+          ]
+        },
+        {
+          "Division": "Network Infrastructure",
+          "Research Topics": [
+            "Next-Generation Networking Technologies",
+            "Software-Defined Networking (SDN)",
+            "5G Technology and its Impact on Network Infrastructure"
+          ]
+        },
+        {
+          "Division": "Cybersecurity",
+          "Research Topics": [
+            "Threat Intelligence and Information Sharing",
+            "Biometric Authentication Systems",
+            "Cybersecurity Measures in Critical Infrastructure"
+          ]
+        },
+        {
+          "Division": "Data Analytics",
+          "Research Topics": [
+            "Big Data Analytics for Business Decision-Making",
+            "Predictive Analytics in Healthcare",
+            "Sentiment Analysis in Social Media"
+          ]
+        },
+        {
+          "Division": "Cloud Computing",
+          "Research Topics": [
+            "Serverless Computing",
+            "Multi-Cloud Architecture",
+            "Edge Computing in Cloud Networks"
+          ]
+        },
+        {
+          "Division": "Artificial Intelligence",
+          "Research Topics": [
+            "Explainable AI",
+            "Reinforcement Learning",
+            "AI in Natural Language Processing"
+          ]
+        },
+        {
+          "Division": "Human-Computer Interaction",
+          "Research Topics": [
+            "User Experience (UX) Design",
+            "Accessibility in Human-Computer Interaction",
+            "Human-Robot Interaction"
+          ]
+        },
+        {
+          "Division": "Telecommunications",
+          "Research Topics": [
+            "6G Technology and Beyond",
+            "Quantum Communication",
+            "Satellite Communication Systems"
+          ]
+        },
+        {
+          "Division": "Mobile Technologies",
+          "Research Topics": [
+            "Mobile App Security",
+            "Mobile Payment Systems",
+            "Mobile Health (mHealth) Applications"
+          ]
+        },
+        {
+          "Division": "Web Technologies",
+          "Research Topics": [
+            "Progressive Web Apps (PWAs)",
+            "Web Accessibility Standards",
+            "WebAssembly for High-Performance Web Applications"
+          ]
+        },
+        {
+          "Division": "E-Government Solutions",
+          "Research Topics": [
+            "Blockchain in E-Government",
+            "Open Data Initiatives in Government",
+            "Smart Cities and E-Governance"
+          ]
+        },
+        {
+          "Division": "Digital Transformation",
+          "Research Topics": [
+            "Digital Twins for Business Transformation",
+            "Industry 4.0 and Smart Manufacturing",
+            "Digital Innovation Strategies"
+          ]
+        },
+        {
+          "Division": "ICT Policy and Regulation",
+          "Research Topics": [
+            "Privacy Laws and Data Protection Policies",
+            "Net Neutrality and Internet Governance",
+            "Cybersecurity Regulations and Compliance"
+          ]
+        },
+        {
+          "Division": "Emerging Technologies",
+          "Research Topics": [
+            "Quantum Computing Applications",
+            "Augmented Reality (AR) and Virtual Reality (VR) Trends",
+            "Biotechnology Innovations in ICT"
+          ]
+        },
+        {
+          "Division": "Internet of Things (IoT)",
+          "Research Topics": [
+            "IoT Security Challenges",
+            "Edge Computing for IoT",
+            "IoT Applications in Smart Agriculture"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Insurance": {
+      "Divisions": [
+        {
+          "Division": "Actuarial Science",
+          "Research Topics": [
+            "Actuarial Models in Pension Planning",
+            "Predictive Modeling for Insurance Premiums",
+            "Solvency II and its Impact on Insurance Actuaries"
+          ]
+        },
+        {
+          "Division": "Underwriting",
+          "Research Topics": [
+            "Underwriting Challenges in the Digital Age"
+          ]
+        },
+        {
+          "Division": "Risk Management",
+          "Research Topics": [
+            "Innovations in Risk Management for Insurers"
+          ]
+        },
+        {
+          "Division": "Claims Management",
+          "Research Topics": [
+            "Claims Automation and Efficiency in Insurance"
+          ]
+        },
+        {
+          "Division": "Insurance Technology",
+          "Research Topics": [
+            "Emerging Technologies in Insurance Technology"
+          ]
+        },
+        {
+          "Division": "Life Insurance",
+          "Research Topics": [
+            "Trends in Life Insurance Products"
+          ]
+        },
+        {
+          "Division": "Property and Casualty Insurance",
+          "Research Topics": [
+            "Property and Casualty Insurance Trends"
+          ]
+        },
+        {
+          "Division": "Health Insurance",
+          "Research Topics": [
+            "Health Insurance Innovations"
+          ]
+        },
+        {
+          "Division": "Reinsurance",
+          "Research Topics": [
+            "Reinsurance Strategies and Risk Transfer"
+          ]
+        },
+        {
+          "Division": "Insurance Regulation",
+          "Research Topics": [
+            "Regulatory Compliance in the Insurance Industry"
+          ]
+        },
+        {
+          "Division": "Insurance Marketing",
+          "Research Topics": [
+            "Digital Marketing Strategies for Insurance Companies"
+          ]
+        },
+        {
+          "Division": "Insurance Fraud Prevention",
+          "Research Topics": [
+            "Fraud Detection and Prevention in Insurance"
+          ]
+        },
+        {
+          "Division": "Insurtech Innovations",
+          "Research Topics": [
+            "Insurtech Startups: Challenges and Opportunities"
+          ]
+        },
+        {
+          "Division": "Customer Experience in Insurance",
+          "Research Topics": [
+            "Enhancing Customer Experience in the Insurance Industry"
+          ]
+        },
+        {
+          "Division": "Climate and Catastrophe Modeling",
+          "Research Topics": [
+            "Climate Change Modeling for Catastrophe Risk"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Leasing": {
+      "Divisions": [
+        {
+          "Division": "Vehicle Leasing",
+          "Research Topics": [
+            "Evaluating the Impact of Electric Vehicles on Vehicle Leasing"
+          ]
+        },
+        {
+          "Division": "Real Estate Leasing",
+          "Research Topics": [
+            "Sustainable Practices in Real Estate Leasing"
+          ]
+        },
+        {
+          "Division": "Financial Leasing",
+          "Research Topics": [
+            "Analyzing the Role of Financial Leasing in Capital Structure"
+          ]
+        },
+        {
+          "Division": "Operating Leases",
+          "Research Topics": [
+            "The Dynamics of Operating Leases in Various Industries"
+          ]
+        },
+        {
+          "Division": "Capital Leases",
+          "Research Topics": [
+            "Assessing the Advantages and Disadvantages of Capital Leases"
+          ]
+        },
+        {
+          "Division": "Lease Administration",
+          "Research Topics": [
+            "Optimizing Lease Administration Processes for Efficiency"
+          ]
+        },
+        {
+          "Division": "Lease Accounting",
+          "Research Topics": [
+            "Compliance Challenges in Lease Accounting Standards"
+          ]
+        },
+        {
+          "Division": "Lease Financing",
+          "Research Topics": [
+            "Exploring Innovative Approaches to Lease Financing"
+          ]
+        },
+        {
+          "Division": "Lease Valuation",
+          "Research Topics": [
+            "Valuation Methods and Strategies for Leased Assets"
+          ]
+        },
+        {
+          "Division": "Lease Compliance",
+          "Research Topics": [
+            "Navigating Legal and Regulatory Compliance in Leasing"
+          ]
+        },
+        {
+          "Division": "Lease Documentation",
+          "Research Topics": [
+            "Best Practices in Creating Comprehensive Lease Documents"
+          ]
+        },
+        {
+          "Division": "Lease Portfolio Management",
+          "Research Topics": [
+            "Strategies for Effective Lease Portfolio Management"
+          ]
+        },
+        {
+          "Division": "Lease Renewals and Terminations",
+          "Research Topics": [
+            "Enhancing Decision-making in Lease Renewals"
+          ]
+        },
+        {
+          "Division": "Technology Leasing",
+          "Research Topics": [
+            "The Role of Technology in Transforming Lease Management"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Other Financial Institutions": {
+      "Divisions": [
+        {
+          "Division": "Microfinance",
+          "Research Topics": [
+            "Assessing the Impact of Microfinance on Poverty Alleviation"
+          ]
+        },
+        {
+          "Division": "FinTech",
+          "Research Topics": [
+            "Exploring the Role of Blockchain in Financial Technology"
+          ]
+        },
+        {
+          "Division": "Payment Systems",
+          "Research Topics": [
+            "Evaluating the Security Measures in Modern Payment Systems"
+          ]
+        },
+        {
+          "Division": "Remittance Services",
+          "Research Topics": [
+            "Analyzing the Economic and Social Impacts of Remittances"
+          ]
+        },
+        {
+          "Division": "Credit Unions",
+          "Research Topics": [
+            "Sustainability Practices in Credit Unions"
+          ]
+        },
+        {
+          "Division": "Pawnbroking",
+          "Research Topics": [
+            "Regulatory Frameworks and Ethics in Pawnbroking"
+          ]
+        },
+        {
+          "Division": "Investment Banking",
+          "Research Topics": [
+            "The Future of Investment Banking in a Digital Landscape"
+          ]
+        },
+        {
+          "Division": "Development Finance Institutions",
+          "Research Topics": [
+            "Strategies for Sustainable Development Finance"
+          ]
+        },
+        {
+          "Division": "Insurance Brokerage",
+          "Research Topics": [
+            "Innovations in Insurance Brokerage",
+            "Customer Satisfaction and Trust in Insurance Brokers"
+          ]
+        },
+        {
+          "Division": "Venture Capital",
+          "Research Topics": [
+            "The Role of Venture Capital in Entrepreneurial Ecosystem"
+          ]
+        },
+        {
+          "Division": "Private Equity",
+          "Research Topics": [
+            "Assessing the Impact of Private Equity Investments"
+          ]
+        },
+        {
+          "Division": "Hedge Funds",
+          "Research Topics": [
+            "Risk Management Strategies in Hedge Funds"
+          ]
+        },
+        {
+          "Division": "Crowdfunding",
+          "Research Topics": [
+            "Crowdfunding: Opportunities, Challenges, and Regulatory Aspects"
+          ]
+        },
+        {
+          "Division": "Financial Inclusion",
+          "Research Topics": [
+            "Advancing Financial Inclusion: Technologies and Strategies"
+          ]
+        },
+        {
+          "Division": "Regulatory Compliance",
+          "Research Topics": [
+            "Regulatory Compliance in the Evolving Financial Landscape"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Petroleum(Marketing)": {
+      "Divisions": [
+        {
+          "Division": "Market Analysis",
+          "Research Topics": [
+            "Emerging Trends in Market Analysis"
+          ]
+        },
+        {
+          "Division": "Fuel Distribution",
+          "Research Topics": [
+            "Evaluating Efficiency in Fuel Distribution Systems"
+          ]
+        },
+        {
+          "Division": "Retail Fuel Stations",
+          "Research Topics": [
+            "Enhancing Customer Experience at Retail Fuel Stations"
+          ]
+        },
+        {
+          "Division": "Lubricants and Greases",
+          "Research Topics": [
+            "Innovations in Lubricants and Greases"
+          ]
+        },
+        {
+          "Division": "Bunker Fuel Supply",
+          "Research Topics": [
+            "Challenges and Opportunities in Bunker Fuel Supply"
+          ]
+        },
+        {
+          "Division": "Petrochemicals Marketing",
+          "Research Topics": [
+            "Strategies for Effective Petrochemicals Marketing"
+          ]
+        },
+        {
+          "Division": "Price Risk Management",
+          "Research Topics": [
+            "Approaches to Price Risk Management in the Energy Sector"
+          ]
+        },
+        {
+          "Division": "Marketing Strategy",
+          "Research Topics": [
+            "Evolving Marketing Strategies in the Petroleum Industry"
+          ]
+        },
+        {
+          "Division": "Supply Chain Optimization",
+          "Research Topics": [
+            "Optimizing Supply Chains in the Oil and Gas Sector"
+          ]
+        },
+        {
+          "Division": "Customer Relationship Management",
+          "Research Topics": [
+            "Building Strong Customer Relationships in Petroleum"
+          ]
+        },
+        {
+          "Division": "Environmental Impact Assessment",
+          "Research Topics": [
+            "Assessing Environmental Impact in the Petroleum Industry"
+          ]
+        },
+        {
+          "Division": "Compliance and Regulations",
+          "Research Topics": [
+            "Navigating Compliance and Regulatory Frameworks in Energy"
+          ]
+        },
+        {
+          "Division": "Energy Trading",
+          "Research Topics": [
+            "Trends and Challenges in Energy Trading"
+          ]
+        },
+        {
+          "Division": "Alternative Fuels",
+          "Research Topics": [
+            "Exploration of Alternative Fuels in the Energy Sector"
+          ]
+        },
+        {
+          "Division": "Brand Management in Petroleum",
+          "Research Topics": [
+            "Building and Managing Brands in the Petroleum Industry"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Real Estate": {
+      "Divisions": [
+        {
+          "Division": "Residential Real Estate",
+          "Research Topics": [
+            "Trends in Residential Real Estate Market"
+          ]
+        },
+        {
+          "Division": "Commercial Real Estate",
+          "Research Topics": [
+            "Dynamics of Commercial Real Estate Transactions"
+          ]
+        },
+        {
+          "Division": "Industrial Real Estate",
+          "Research Topics": [
+            "Role and Impact of Industrial Real Estate"
+          ]
+        },
+        {
+          "Division": "Retail Real Estate",
+          "Research Topics": [
+            "Strategies for Retail Real Estate Development"
+          ]
+        },
+        {
+          "Division": "Real Estate Development",
+          "Research Topics": [
+            "Sustainable Practices in Real Estate Development"
+          ]
+        },
+        {
+          "Division": "Property Management",
+          "Research Topics": [
+            "Innovations in Property Management"
+          ]
+        },
+        {
+          "Division": "Real Estate Investment",
+          "Research Topics": [
+            "Risk and Return in Real Estate Investments"
+          ]
+        },
+        {
+          "Division": "Real Estate Finance",
+          "Research Topics": [
+            "Financial Models in Real Estate Financing"
+          ]
+        },
+        {
+          "Division": "Real Estate Marketing",
+          "Research Topics": [
+            "Digital Marketing Trends in Real Estate"
+          ]
+        },
+        {
+          "Division": "Real Estate Valuation",
+          "Research Topics": [
+            "Approaches to Real Estate Valuation"
+          ]
+        },
+        {
+          "Division": "Sustainable Real Estate Practices",
+          "Research Topics": [
+            "Implementing Sustainable Practices in Real Estate"
+          ]
+        },
+        {
+          "Division": "Urban Planning and Design",
+          "Research Topics": [
+            "Integrating Urban Planning in Real Estate Projects"
+          ]
+        },
+        {
+          "Division": "Real Estate Technology",
+          "Research Topics": [
+            "Impact of Technology on Real Estate Operations"
+          ]
+        },
+        {
+          "Division": "Real Estate Law and Regulation",
+          "Research Topics": [
+            "Legal Frameworks and Regulations in Real Estate"
+          ]
+        },
+        {
+          "Division": "Real Estate Market Analysis",
+          "Research Topics": [
+            "Data Analytics for Real Estate Market Analysis"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Road Transportation": {
+      "Divisions": [
+        {
+          "Division": "Public Transit",
+          "Research Topics": [
+            "Enhancing Public Transit Systems"
+          ]
+        },
+        {
+          "Division": "Freight Transport",
+          "Research Topics": [
+            "Optimization Strategies for Freight Transport"
+          ]
+        },
+        {
+          "Division": "Logistics and Supply Chain",
+          "Research Topics": [
+            "Innovations in Road Transportation Logistics"
+          ]
+        },
+        {
+          "Division": "Traffic Management",
+          "Research Topics": [
+            "Smart Solutions for Traffic Management"
+          ]
+        },
+        {
+          "Division": "Transportation Infrastructure",
+          "Research Topics": [
+            "Infrastructure Development in Road Transportation"
+          ]
+        },
+        {
+          "Division": "Intelligent Transportation Systems",
+          "Research Topics": [
+            "Applications and Benefits of Intelligent Transportation"
+          ]
+        },
+        {
+          "Division": "Transportation Planning",
+          "Research Topics": [
+            "Integrated Transportation Planning"
+          ]
+        },
+        {
+          "Division": "Vehicle Technology",
+          "Research Topics": [
+            "Advancements in Vehicle Technology"
+          ]
+        },
+        {
+          "Division": "Road Safety",
+          "Research Topics": [
+            "Strategies for Improving Road Safety"
+          ]
+        },
+        {
+          "Division": "Environmental Impact of Transportation",
+          "Research Topics": [
+            "Sustainable Practices in Road Transportation"
+          ]
+        },
+        {
+          "Division": "Ride-Sharing and Carpooling",
+          "Research Topics": [
+            "Impact and Challenges of Ride-Sharing and Carpooling"
+          ]
+        },
+        {
+          "Division": "Last-Mile Delivery",
+          "Research Topics": [
+            "Innovations in Last-Mile Delivery"
+          ]
+        },
+        {
+          "Division": "Transportation Economics",
+          "Research Topics": [
+            "Economic Perspectives on Road Transportation"
+          ]
+        },
+        {
+          "Division": "Transportation Policy and Regulation",
+          "Research Topics": [
+            "Policy Frameworks and Regulatory Measures in Transportation"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Renewable Energy": {
+      "Divisions": [
+        {
+          "Division": "Solar Thermal Energy",
+          "Research Topics": [
+            "Advancements in Solar Thermal Energy"
+          ]
+        },
+        {
+          "Division": "Solar Panels and Materials Research",
+          "Research Topics": [
+            "Innovations in Solar Panels and Materials"
+          ]
+        },
+        {
+          "Division": "Solar Grid Integration",
+          "Research Topics": [
+            "Grid Integration of Solar Energy"
+          ]
+        },
+        {
+          "Division": "Wind Turbine Technology",
+          "Research Topics": [
+            "Emerging Trends in Wind Turbine Technology"
+          ]
+        },
+        {
+          "Division": "Wind Farm Design and Optimization",
+          "Research Topics": [
+            "Optimization Strategies for Wind Farm Design"
+          ]
+        },
+        {
+          "Division": "Offshore Wind Energy",
+          "Research Topics": [
+            "Challenges and Opportunities in Offshore Wind Energy"
+          ]
+        },
+        {
+          "Division": "Wind Resource Assessment",
+          "Research Topics": [
+            "Techniques for Wind Resource Assessment"
+          ]
+        },
+        {
+          "Division": "Biomass Conversion Technologies",
+          "Research Topics": [
+            "Latest Developments in Biomass Conversion Technologies"
+          ]
+        },
+        {
+          "Division": "Bioenergy Feedstocks Research",
+          "Research Topics": [
+            "Research on Sustainable Bioenergy Feedstocks"
+          ]
+        },
+        {
+          "Division": "Biogas Production",
+          "Research Topics": [
+            "Enhancing Biogas Production"
+          ]
+        },
+        {
+          "Division": "Biomass Co-firing in Power Plants",
+          "Research Topics": [
+            "Co-firing Biomass in Power Plants"
+          ]
+        },
+        {
+          "Division": "Hydropower Turbine Design",
+          "Research Topics": [
+            "Design Innovations in Hydropower Turbines"
+          ]
+        },
+        {
+          "Division": "Small Hydropower Systems",
+          "Research Topics": [
+            "Small-Scale Hydropower Solutions"
+          ]
+        },
+        {
+          "Division": "Hydropower Environmental Impact Assessment",
+          "Research Topics": [
+            "Environmental Considerations in Hydropower Projects"
+          ]
+        },
+        {
+          "Division": "Run-of-River vs. Reservoir Hydropower",
+          "Research Topics": [
+            "Comparative Analysis of Run-of-River and Reservoir Hydropower"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "Education": {
+      "Divisions": [
+        {
+          "Division": "Classroom Management",
+          "Research Topics": [
+            "Effective Strategies for Classroom Management"
+          ]
+        },
+        {
+          "Division": "Educational Psychology",
+          "Research Topics": [
+            "Impact of Psychological Factors on Learning"
+          ]
+        },
+        {
+          "Division": "Assessment and Evaluation",
+          "Research Topics": [
+            "Innovations in Assessment and Evaluation Methods"
+          ]
+        },
+        {
+          "Division": "Special Education Research",
+          "Research Topics": [
+            "Enhancing Support for Special Education Students"
+          ]
+        },
+        {
+          "Division": "Inclusive Education",
+          "Research Topics": [
+            "Strategies for Creating Inclusive Learning Environments"
+          ]
+        },
+        {
+          "Division": "Teacher Professional Development",
+          "Research Topics": [
+            "Continuous Professional Development for Teachers"
+          ]
+        },
+        {
+          "Division": "Online and Distance Learning",
+          "Research Topics": [
+            "Advancements in Online and Distance Learning"
+          ]
+        },
+        {
+          "Division": "Higher Education Research",
+          "Research Topics": [
+            "Trends and Challenges in Higher Education Research"
+          ]
+        },
+        {
+          "Division": "Multilingual Education",
+          "Research Topics": [
+            "Promoting Multilingualism in Educational Settings"
+          ]
+        },
+        {
+          "Division": "Early Childhood Education",
+          "Research Topics": [
+            "Importance of Early Childhood Education"
+          ]
+        },
+        {
+          "Division": "Adult and Lifelong Learning",
+          "Research Topics": [
+            "Strategies for Lifelong Learning"
+          ]
+        },
+        {
+          "Division": "International Education Studies",
+          "Research Topics": [
+            "Cross-Cultural Perspectives in International Education"
+          ]
+        },
+        {
+          "Division": "Educational Leadership and Administration",
+          "Research Topics": [
+            "Leadership in Educational Institutions"
+          ]
+        },
+        {
+          "Division": "Comparative Education",
+          "Research Topics": [
+            "Comparative Analysis of Education Systems"
+          ]
+        },
+        {
+          "Division": "Socioeconomic Impact of Education",
+          "Research Topics": [
+            "Examining the Societal Impact of Education"
+          ]
+        },
+        {
+          "Division": "Blended Learning",
+          "Research Topics": [
+            "Integrating Technology and Traditional Learning"
+          ]
+        },
+        {
+          "Division": "Gamification in Education",
+          "Research Topics": [
+            "Gamified Approaches to Enhance Learning"
+          ]
+        },
+        {
+          "Division": "STEM Education (Science, Technology, Engineering, Mathematics)",
+          "Research Topics": [
+            "Advances in Science, Technology, Engineering, and Mathematics (STEM) Education"
+          ]
+        },
+        {
+          "Division": "Literacy and Reading Education",
+          "Research Topics": [
+            "Improving Literacy Skills through Effective Education"
+          ]
+        },
+        {
+          "Division": "Educational Neuroscience",
+          "Research Topics": [
+            "Insights from Educational Neuroscience"
+          ]
+        },
+        {
+          "Division": "Mobile Learning",
+          "Research Topics": [
+            "Mobile Technologies in Education"
+          ]
+        },
+        {
+          "Division": "Educational Robotics",
+          "Research Topics": [
+            "Robotics in Educational Settings"
+          ]
+        },
+        {
+          "Division": "Gender and Education",
+          "Research Topics": [
+            "Addressing Gender Disparities in Education"
+          ]
+        },
+        {
+          "Division": "Cultural Competence in Education",
+          "Research Topics": [
+            "Fostering Cultural Competence in Educational Environments"
+          ]
+        },
+        {
+          "Division": "Educational Leadership in STEM",
+          "Research Topics": [
+            "Leadership Strategies in STEM Education"
+          ]
+        },
+        {
+          "Division": "Language Education and Linguistics",
+          "Research Topics": [
+            "Research in Language Education and Linguistics"
+          ]
+        },
+        {
+          "Division": "Virtual Reality in Education",
+          "Research Topics": [
+            "Enhancing Learning Experiences through Virtual Reality"
+          ]
+        },
+        {
+          "Division": "Global Citizenship Education",
+          "Research Topics": [
+            "Promoting Global Citizenship through Education"
+          ]
+        },
+        {
+          "Division": "Teacher Motivation and Burnout",
+          "Research Topics": [
+            "Strategies to Motivate Teachers and Prevent Burnout"
+          ]
+        },
+        {
+          "Division": "Positive Psychology in Education",
+          "Research Topics": [
+            "Positive Psychology Approaches in Educational Settings"
+          ]
+        },
+        {
+          "Division": "Education for Sustainable Development",
+          "Research Topics": [
+            "Integrating Sustainability Education"
+          ]
+        },
+        {
+          "Division": "Social and Emotional Learning",
+          "Research Topics": [
+            "Enhancing Social and Emotional Learning in Schools"
+          ]
+        },
+        {
+          "Division": "Educational Equity and Inclusion",
+          "Research Topics": [
+            "Strategies for Achieving Educational Equity and Inclusion"
+          ]
+        },
+        {
+          "Division": "Critical Pedagogy",
+          "Research Topics": [
+            "Application of Critical Pedagogy in Education"
+          ]
+        },
+        {
+          "Division": "Digital Citizenship Education",
+          "Research Topics": [
+            "Promoting Digital Citizenship in Educational Settings"
+          ]
+        }
+      ]
+    }
+  }
+]

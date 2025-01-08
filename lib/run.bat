@@ -1,0 +1,1 @@
+flutter emulators --create Pixel_7_Pro_API_29
